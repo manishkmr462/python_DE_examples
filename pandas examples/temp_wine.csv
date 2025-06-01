@@ -1,0 +1,505 @@
+id,wine,rating,location,image
+1,Montrachet Grand Cru 2010,"{'average': '4.9', 'reviews': '37 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+2,Montrachet Grand Cru 2014,"{'average': '4.9', 'reviews': '33 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+3,Meursault Les Rougeots 2001,"{'average': '4.9', 'reviews': '25 ratings'}",France·Meursault,https://images.vivino.com/thumbs/l5W5NRvZR_SzClIDSnG5Ag_pb_x300.png
+4,Corton-Charlemagne Grand Cru N.V.,"{'average': '4.8', 'reviews': '416 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/ZGxHdQyGQt-hfJt7eNMXlA_pb_x300.png
+5,Estate Finch Hollow Chardonnay (Cave Fermented) 2014,"{'average': '4.8', 'reviews': '113 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/pQ_92smWRKG7Y7h5_ZwD-w_pb_x300.png
+6,Y 1996,"{'average': '4.8', 'reviews': '96 ratings'}",France·Bordeaux Supérieur,https://images.vivino.com/thumbs/6dP83oDrQy2Zv6es9tHp7w_pb_x300.png
+7,Bâtard-Montrachet Grand Cru 1996,"{'average': '4.8', 'reviews': '71 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/EDQ4q_3FQ568NVspQBECug_pb_x300.png
+8,Montrachet Grand Cru Marquis de Laguiche 2004,"{'average': '4.8', 'reviews': '64 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/1QoFUeYqQaCU07v4MBx8yw_pb_x300.png
+9,Meursault Les Rougeots 2005,"{'average': '4.8', 'reviews': '56 ratings'}",France·Meursault,https://images.vivino.com/thumbs/l5W5NRvZR_SzClIDSnG5Ag_pb_x300.png
+10,Bâtard-Montrachet Grand Cru 2012,"{'average': '4.8', 'reviews': '55 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/pWOdFPoyQ427uoHW_l941g_pb_x300.png
+11,Montrachet Grand Cru Marquis de Laguiche 2002,"{'average': '4.8', 'reviews': '44 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/1QoFUeYqQaCU07v4MBx8yw_pb_x300.png
+12,Montrachet Grand Cru 1999,"{'average': '4.8', 'reviews': '44 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+13,Montrachet Grand Cru 2000,"{'average': '4.8', 'reviews': '42 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+14,Ermitage de l'Orée 2004,"{'average': '4.8', 'reviews': '41 ratings'}",France·Hermitage,https://images.vivino.com/thumbs/K3N0EZYBQeWunDuzNC0Dug_pb_x300.png
+15,Pessac-Léognan Blanc (Grand Cru Classé de Graves) 2005,"{'average': '4.8', 'reviews': '39 ratings'}",France·Pessac-Léognan,https://images.vivino.com/thumbs/EvtJOugzTx-HZXZfdZvTsA_pb_x300.png
+16,Montrachet Grand Cru Marquis de Laguiche 2015,"{'average': '4.8', 'reviews': '38 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/1QoFUeYqQaCU07v4MBx8yw_pb_x300.png
+17,Vin de Pays de l'Hérault Blanc 2007,"{'average': '4.8', 'reviews': '37 ratings'}",France·Hérault,https://images.vivino.com/thumbs/tBJyYsUeTxuYIPy6oS5T4A_pb_x300.png
+18,Clos Sainte Hune Riesling Alsace 1990,"{'average': '4.8', 'reviews': '36 ratings'}",France·Alsace,https://images.vivino.com/thumbs/sOfai0jLTaKoP_6oXtvH9w_pb_x300.png
+19,Meursault Les Rougeots 2010,"{'average': '4.8', 'reviews': '35 ratings'}",France·Meursault,https://images.vivino.com/thumbs/l5W5NRvZR_SzClIDSnG5Ag_pb_x300.png
+20,Corton-Charlemagne Grand Cru 2009,"{'average': '4.8', 'reviews': '34 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/QIs0hHhdRHubnyUjY8U2kA_pb_x300.png
+21,The Judge Chardonnay 2012,"{'average': '4.8', 'reviews': '34 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/xfK7hQR7T6WJjvIIsDW21A_pb_x300.png
+22,Montrachet Grand Cru 1993,"{'average': '4.8', 'reviews': '32 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+23,Corton-Charlemagne Grand Cru 2005,"{'average': '4.8', 'reviews': '32 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/QIs0hHhdRHubnyUjY8U2kA_pb_x300.png
+24,Corton Charlemagne Grand Cru 2015,"{'average': '4.8', 'reviews': '32 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/npJNfRLlTtqqmoSCrsn2Kw_pb_x300.png
+25,G-Max Riesling 2009,"{'average': '4.8', 'reviews': '31 ratings'}",Germany·Rheinhessen,https://images.vivino.com/thumbs/_tbErBvfQ3CcDGgJf-I6Dw_pb_x300.png
+26,Unendlich Riesling 2007,"{'average': '4.8', 'reviews': '31 ratings'}",Austria·Wachau,https://images.vivino.com/thumbs/Clc1N_neRBq_orOAKw9aqg_pb_x300.png
+27,Corton-Charlemagne Grand Cru 2007,"{'average': '4.8', 'reviews': '30 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/QIs0hHhdRHubnyUjY8U2kA_pb_x300.png
+28,Meursault Les Rougeots 2004,"{'average': '4.8', 'reviews': '30 ratings'}",France·Meursault,https://images.vivino.com/thumbs/l5W5NRvZR_SzClIDSnG5Ag_pb_x300.png
+29,Ermitage Le Méal Blanc 2006,"{'average': '4.8', 'reviews': '30 ratings'}",France·Hermitage,https://images.vivino.com/thumbs/e8iQmynXSRq_uYHKMdPMlQ_pb_x300.png
+30,Chevalier-Montrachet Grand Cru 2008,"{'average': '4.8', 'reviews': '29 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/mpBp_HteQAKsBo5MJ6JnMA_pb_x300.png
+31,Pessac-Léognan Blanc (Grand Cru Classé de Graves) 1998,"{'average': '4.8', 'reviews': '29 ratings'}",France·Pessac-Léognan,https://images.vivino.com/thumbs/EvtJOugzTx-HZXZfdZvTsA_pb_x300.png
+32,Chardonnay Eastside 2012,"{'average': '4.8', 'reviews': '28 ratings'}",United States·Russian River Valley,https://images.vivino.com/thumbs/6JonqprfR_SMBTqliXjB7Q_pb_x300.png
+33,Reserve Chardonnay 2014,"{'average': '4.8', 'reviews': '27 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/ZdnxhNdpTeet4bwwTdFUJA_pb_x300.png
+34,Montrachet Grand Cru 1989,"{'average': '4.8', 'reviews': '27 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+35,Chablis Premier Cru 'Butteaux' 2001,"{'average': '4.8', 'reviews': '26 ratings'}",France·Chablis 1er Cru 'Butteaux',https://images.vivino.com/thumbs/eBzMh3SOSDGAmJv0cg2vnw_pb_x300.png
+36,Corton-Charlemagne Grand Cru 1998,"{'average': '4.8', 'reviews': '26 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/QIs0hHhdRHubnyUjY8U2kA_pb_x300.png
+37,Singerriedel - Riesling Smaragd 2002,"{'average': '4.8', 'reviews': '26 ratings'}",Austria·Wachau,https://images.vivino.com/thumbs/W7Tblf6DSU6rZjeCpIkJ8Q_pb_x300.png
+38,Unendlich Riesling 2017,"{'average': '4.8', 'reviews': '26 ratings'}",Austria·Wachau,https://images.vivino.com/thumbs/Clc1N_neRBq_orOAKw9aqg_pb_x300.png
+39,Bâtard-Montrachet Grand Cru 2003,"{'average': '4.8', 'reviews': '25 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/RIMuIFwaQVa-HkHKNztfxA_pb_x300.png
+40,Montrachet Grand Cru N.V.,"{'average': '4.7', 'reviews': '1249 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+41,Meursault Les Rougeots N.V.,"{'average': '4.7', 'reviews': '711 ratings'}",France·Meursault,https://images.vivino.com/thumbs/l5W5NRvZR_SzClIDSnG5Ag_pb_x300.png
+42,Gold Chardonnay N.V.,"{'average': '4.7', 'reviews': '481 ratings'}",United States·Napa Valley,https://images.vivino.com/highlights/icon/top_ranked.svg
+43,Unendlich Riesling N.V.,"{'average': '4.7', 'reviews': '428 ratings'}",Austria·Wachau,https://images.vivino.com/thumbs/Clc1N_neRBq_orOAKw9aqg_pb_x300.png
+44,Estate Finch Hollow Chardonnay (Cave Fermented) N.V.,"{'average': '4.7', 'reviews': '375 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/pQ_92smWRKG7Y7h5_ZwD-w_pb_x300.png
+45,Montrachet Grand Cru N.V.,"{'average': '4.7', 'reviews': '310 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/7NGox10_SBWN1jRRD_dCdw_pb_x300.png
+46,Gaia & Rey Langhe 2011,"{'average': '4.7', 'reviews': '299 ratings'}",Italy·Langhe,https://images.vivino.com/thumbs/5K9sXX9CQ8eonyEU71IlDA_pb_x300.png
+47,Castillo Ygay Gran Reserva Especial Blanco 1986,"{'average': '4.7', 'reviews': '254 ratings'}",Spain·Rioja,https://images.vivino.com/thumbs/G3MU5UwBQ1eCX5A6CiPivg_pb_x300.png
+48,G-Max Riesling N.V.,"{'average': '4.7', 'reviews': '192 ratings'}",Germany·Rheinhessen,https://images.vivino.com/thumbs/_tbErBvfQ3CcDGgJf-I6Dw_pb_x300.png
+49,Meursault Les Perrieres N.V.,"{'average': '4.7', 'reviews': '184 ratings'}",France·Meursault,https://images.vivino.com/thumbs/iDfiF6ocQuOzhLbXXKWtPQ_pb_x300.png
+50,Meursault Premier Cru Caillerets N.V.,"{'average': '4.7', 'reviews': '151 ratings'}",France·Meursault Premier Cru,https://images.vivino.com/thumbs/dh7QiwynR8CgMU95ENU7Bg_pb_x300.png
+51,Bâtard-Montrachet Grand Cru 2011,"{'average': '4.7', 'reviews': '130 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/EDQ4q_3FQ568NVspQBECug_pb_x300.png
+52,Marcassin Vineyard Chardonnay 2011,"{'average': '4.7', 'reviews': '118 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/JFRTPDUcTFiLFvtMXT-4Cg_pb_x300.png
+53,Montrachet Grand Cru 2008,"{'average': '4.7', 'reviews': '107 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+54,Sorte O Soro Val do Bibei 2014,"{'average': '4.7', 'reviews': '95 ratings'}",Spain·Valdeorras,https://images.vivino.com/thumbs/zIh4iW-pRNim7pLF_q2QAg_pb_x300.png
+55,Montrachet Grand Cru Marquis de Laguiche 2008,"{'average': '4.7', 'reviews': '89 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/1QoFUeYqQaCU07v4MBx8yw_pb_x300.png
+56,Astéroide N.V.,"{'average': '4.7', 'reviews': '83 ratings'}",France·Pouilly-Fumé,https://images.vivino.com/thumbs/_YKu7agoT8qLq3dKrOGg8w_pb_x300.png
+57,Puligny-Montrachet 1er Cru Les Pucelles 2000,"{'average': '4.7', 'reviews': '81 ratings'}",France·Puligny-Montrachet Premier Cru,https://images.vivino.com/thumbs/6_Co3020RKCKxGqSX8PTIQ_pb_x300.png
+58,Chevalier-Montrachet Grand Cru N.V.,"{'average': '4.7', 'reviews': '81 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/oBGUJWNHRkOuTsGCj4XiCQ_pb_x300.png
+59,Chevalier-Montrachet Grand Cru 2000,"{'average': '4.7', 'reviews': '79 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/lD32nuv9Sw6sJ7eQ8M6FtA_pb_x300.png
+60,Montrachet Grand Cru 2009,"{'average': '4.7', 'reviews': '78 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+61,Montrachet Grand Cru 2007,"{'average': '4.7', 'reviews': '75 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+62,Bâtard-Montrachet Grand Cru 2011,"{'average': '4.7', 'reviews': '75 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/jWsHoj06QqmQWSwshA6ORA_pb_x300.png
+63,Chevalier-Montrachet Grand Cru 2007,"{'average': '4.7', 'reviews': '71 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/lD32nuv9Sw6sJ7eQ8M6FtA_pb_x300.png
+64,Meursault Les Rougeots 2011,"{'average': '4.7', 'reviews': '67 ratings'}",France·Meursault,https://images.vivino.com/thumbs/l5W5NRvZR_SzClIDSnG5Ag_pb_x300.png
+65,Montrachet Grand Cru 2004,"{'average': '4.7', 'reviews': '64 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+66,Veneto Amabile del Cere Passito Bianco 2003,"{'average': '4.7', 'reviews': '64 ratings'}",Italy·Veneto,https://images.vivino.com/thumbs/KCv8em8IS3Wp_w9qHpQYoQ_pb_x300.png
+67,Montrachet Grand Cru N.V.,"{'average': '4.7', 'reviews': '63 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/3FoKTZ4uR_a3QRU4MlC2HA_pb_x300.png
+68,Bâtard-Montrachet Grand Cru 1999,"{'average': '4.7', 'reviews': '62 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/EDQ4q_3FQ568NVspQBECug_pb_x300.png
+69,Montrachet Grand Cru Marquis de Laguiche 2011,"{'average': '4.7', 'reviews': '60 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/1QoFUeYqQaCU07v4MBx8yw_pb_x300.png
+70,Y 1998,"{'average': '4.7', 'reviews': '60 ratings'}",France·Bordeaux Supérieur,https://images.vivino.com/thumbs/6dP83oDrQy2Zv6es9tHp7w_pb_x300.png
+71,Montrachet Grand Cru Marquis de Laguiche 2007,"{'average': '4.7', 'reviews': '58 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/1QoFUeYqQaCU07v4MBx8yw_pb_x300.png
+72,Unendlich Riesling 2009,"{'average': '4.7', 'reviews': '58 ratings'}",Austria·Wachau,https://images.vivino.com/thumbs/Clc1N_neRBq_orOAKw9aqg_pb_x300.png
+73,Y 2009,"{'average': '4.7', 'reviews': '53 ratings'}",France·Bordeaux Supérieur,https://images.vivino.com/thumbs/6dP83oDrQy2Zv6es9tHp7w_pb_x300.png
+74,Meursault Les Rougeots 2007,"{'average': '4.7', 'reviews': '53 ratings'}",France·Meursault,https://images.vivino.com/thumbs/l5W5NRvZR_SzClIDSnG5Ag_pb_x300.png
+75,Meursault-Perrières Premier Cru 2011,"{'average': '4.7', 'reviews': '53 ratings'}",France·Meursault Premier Cru,https://images.vivino.com/thumbs/CHcdmEQ1QAeKnKcX96AghA_pb_x300.png
+76,Montrachet Grand Cru 2006,"{'average': '4.7', 'reviews': '52 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/2YDGRewSSFuiQWel9WCJRw_pb_x300.png
+77,Veneto Amabile del Cere Passito Bianco 1990,"{'average': '4.7', 'reviews': '52 ratings'}",Italy·Veneto,https://images.vivino.com/thumbs/KCv8em8IS3Wp_w9qHpQYoQ_pb_x300.png
+78,Meursault Les Rougeots 2006,"{'average': '4.7', 'reviews': '51 ratings'}",France·Meursault,https://images.vivino.com/thumbs/l5W5NRvZR_SzClIDSnG5Ag_pb_x300.png
+79,Y 1990,"{'average': '4.7', 'reviews': '50 ratings'}",France·Bordeaux Supérieur,https://images.vivino.com/thumbs/6dP83oDrQy2Zv6es9tHp7w_pb_x300.png
+80,Gaia & Rey Langhe 1999,"{'average': '4.7', 'reviews': '50 ratings'}",Italy·Langhe,https://images.vivino.com/thumbs/5K9sXX9CQ8eonyEU71IlDA_pb_x300.png
+81,The Judge Chardonnay 2013,"{'average': '4.7', 'reviews': '50 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/xfK7hQR7T6WJjvIIsDW21A_pb_x300.png
+82,NVD Blanc 2012,"{'average': '4.7', 'reviews': '49 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/E-mLfBQTQFi1rifQPJeJZA_pb_x300.png
+83,Vieilles Vignes Reserve Le Clos de Monsieur Noly Pouilly-Fuissé 2002,"{'average': '4.7', 'reviews': '49 ratings'}",France·Pouilly-Fuissé,https://images.vivino.com/thumbs/oaE_VgfGTk65ZOXcS0NU6Q_pb_x300.png
+84,Chevalier-Montrachet Grand Cru 2013,"{'average': '4.7', 'reviews': '49 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/lD32nuv9Sw6sJ7eQ8M6FtA_pb_x300.png
+85,Clos Sainte Hune Riesling Alsace 1989,"{'average': '4.7', 'reviews': '48 ratings'}",France·Alsace,https://images.vivino.com/thumbs/sOfai0jLTaKoP_6oXtvH9w_pb_x300.png
+86,Wehlener Sonnenuhr Riesling Auslese 1998,"{'average': '4.7', 'reviews': '48 ratings'}",Germany·Wehlen,https://images.vivino.com/thumbs/z7B_lm7URWy88F0inHlZ-w_pb_x300.png
+87,Chardonnay CIX 2012,"{'average': '4.7', 'reviews': '48 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/mPWBSs3FQHuG52fEionjYQ_pb_x300.png
+88,Ermitage Le Méal Blanc 2007,"{'average': '4.7', 'reviews': '48 ratings'}",France·Hermitage,https://images.vivino.com/thumbs/e8iQmynXSRq_uYHKMdPMlQ_pb_x300.png
+89,Ellen Lane Estate Chardonnay 2015,"{'average': '4.7', 'reviews': '48 ratings'}",United States·Russian River Valley,https://images.vivino.com/thumbs/5i1iFN1OQlKJZHczprDV9Q_pb_x300.png
+90,Scharzhofberger Riesling Spätlese 2015,"{'average': '4.7', 'reviews': '47 ratings'}",Germany·Wiltingen,https://images.vivino.com/thumbs/NwRt7c2oQF6-mdBgs9gSLQ_pb_x300.png
+91,Bâtard-Montrachet Grand Cru 2008,"{'average': '4.7', 'reviews': '46 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/tEeCQZd1TRGH39Pc8iOsHQ_pb_x300.png
+92,La Proportion Dorée 2014,"{'average': '4.7', 'reviews': '46 ratings'}",United States·Sonoma County,https://images.vivino.com/thumbs/eObKTco1QMGqzOuiZz8wlg_pb_x300.png
+93,Bâtard-Montrachet Grand Cru 2009,"{'average': '4.7', 'reviews': '43 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/vwvrxO2IRq2nA3G3DXG6AQ_pb_x300.png
+94,Marmar 2015,"{'average': '4.7', 'reviews': '43 ratings'}",Germany·Pfalz,https://images.vivino.com/thumbs/AWCELgR_SYWn2lIZ2byjgg_pb_x300.png
+95,Montrachet Grand Cru 2003,"{'average': '4.7', 'reviews': '43 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+96,Familienreserve 2010,"{'average': '4.7', 'reviews': '45 ratings'}",Austria·Kamptal,https://images.vivino.com/thumbs/WqrH0CyxSHSfR94ExP2dyg_pb_x300.png
+97,Puligny-Montrachet Les Enseignères 2007,"{'average': '4.7', 'reviews': '41 ratings'}",France·Puligny-Montrachet,https://images.vivino.com/thumbs/rnSiwow4TqSCtPugr3mC2Q_pb_x300.png
+98,Puligny-Montrachet Les Enseignères 2013,"{'average': '4.7', 'reviews': '41 ratings'}",France·Puligny-Montrachet,https://images.vivino.com/thumbs/rnSiwow4TqSCtPugr3mC2Q_pb_x300.png
+99,Montrachet Grand Cru 1996,"{'average': '4.7', 'reviews': '41 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+100,Chablis Grand Cru 'Blanchot' 2011,"{'average': '4.7', 'reviews': '40 ratings'}",France·Chablis Grand Cru 'Blanchot',https://images.vivino.com/thumbs/N-h7YbCuSSWSjantw5tYBA_pb_x300.png
+101,Aile d'Argent Blanc Bordeaux 1982,"{'average': '4.7', 'reviews': '40 ratings'}",France·Bordeaux,https://images.vivino.com/thumbs/mUcYdy79QZyMIo3tsiKq8A_pb_x300.png
+102,Chevalier-Montrachet Grand Cru 2014,"{'average': '4.7', 'reviews': '40 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/lD32nuv9Sw6sJ7eQ8M6FtA_pb_x300.png
+103,Corton-Charlemagne Grand Cru 2009,"{'average': '4.7', 'reviews': '37 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/LbGb8m6hTeitdD0g3ZAQMw_pb_x300.png
+104,Abts Erde Riesling 2009,"{'average': '4.7', 'reviews': '37 ratings'}",Germany·Rheinhessen,https://images.vivino.com/thumbs/e-wQMtuaTqORgDsptlx5ng_pb_x300.png
+105,Mon Plaisir Chardonnay 2015,"{'average': '4.7', 'reviews': '37 ratings'}",United States·Knights Valley,https://images.vivino.com/thumbs/kI7dIYpZQWK1D2GCeQ4D2g_pb_x300.png
+106,Corton-Charlemagne Grand Cru 2006,"{'average': '4.7', 'reviews': '36 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/6ifUi3VISe6hiUqrXePJqQ_pb_x300.png
+107,Castillo Ygay Gran Reserva Especial Blanco 2001,"{'average': '4.7', 'reviews': '36 ratings'}",Spain·Rioja,https://images.vivino.com/thumbs/G3MU5UwBQ1eCX5A6CiPivg_pb_x300.png
+108,Y 1997,"{'average': '4.7', 'reviews': '36 ratings'}",France·Bordeaux Supérieur,https://images.vivino.com/thumbs/6dP83oDrQy2Zv6es9tHp7w_pb_x300.png
+109,Wehlener Sonnenuhr Riesling Auslese 1990,"{'average': '4.7', 'reviews': '36 ratings'}",Germany·Wehlen,https://images.vivino.com/thumbs/z7B_lm7URWy88F0inHlZ-w_pb_x300.png
+110,Chassagne-Montrachet 1er Cru 'Les Caillerets' Blanc 2014,"{'average': '4.7', 'reviews': '36 ratings'}",France·Chassagne-Montrachet 1er Cru 'Cailleret',https://images.vivino.com/thumbs/upj_csvpTCuxQCbIr2lGPg_pb_x300.png
+111,Chardonnay Larry Hyde & Sons 2015,"{'average': '4.7', 'reviews': '36 ratings'}",United States·Los Carneros,https://images.vivino.com/thumbs/IiahG9oiQ-K0DceRfPIoOA_pb_x300.png
+112,Chardonnay 2004,"{'average': '4.7', 'reviews': '35 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/O6b0DPFgRkaxE9ebTTwAbA_pb_x300.png
+113,Meursault Les Rougeots 2012,"{'average': '4.7', 'reviews': '35 ratings'}",France·Meursault,https://images.vivino.com/thumbs/l5W5NRvZR_SzClIDSnG5Ag_pb_x300.png
+114,Chardonnay Coup De Coeur 2013,"{'average': '4.7', 'reviews': '35 ratings'}",United States·Sonoma County,https://images.vivino.com/thumbs/-EUQAvqtSc-fRB5ZkyfqGw_pb_x300.png
+115,Montrachet Grand Cru 2011,"{'average': '4.7', 'reviews': '35 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/AzV_MtQeRMek7hwD4cmdzw_pb_x300.png
+116,Unendlich Riesling 2011,"{'average': '4.7', 'reviews': '34 ratings'}",Austria·Wachau,https://images.vivino.com/thumbs/Clc1N_neRBq_orOAKw9aqg_pb_x300.png
+117,Chablis Grand Cru 'Clos' 2012,"{'average': '4.7', 'reviews': '34 ratings'}",France·Chablis Grand Cru 'Les Clos',https://images.vivino.com/thumbs/Z3rABzWkRk66rNa_qD8IVQ_pb_x300.png
+118,Deux Grenouilles 2016,"{'average': '4.7', 'reviews': '34 ratings'}",United States·California,https://images.vivino.com/thumbs/r5BG1LbUR26lpgPHn2y9uQ_pb_x300.png
+119,Corton-Charlemagne Grand Cru 2013,"{'average': '4.7', 'reviews': '34 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/eRoKZehFRfOTcsj_wEMHzQ_pb_x300.png
+120,Vieilles Vignes Reserve Le Clos de Monsieur Noly Pouilly-Fuissé 2001,"{'average': '4.7', 'reviews': '33 ratings'}",France·Pouilly-Fuissé,https://images.vivino.com/thumbs/oaE_VgfGTk65ZOXcS0NU6Q_pb_x300.png
+121,Chablis Grand Cru 'Valmur' 2001,"{'average': '4.7', 'reviews': '33 ratings'}",France·Chablis Grand Cru 'Valmur',https://images.vivino.com/thumbs/NvJW_m_oSouF5BbUQ6a_Yg_pb_x300.png
+122,Castillo Ygay Gran Reserva Especial Blanco 1988,"{'average': '4.7', 'reviews': '33 ratings'}",Spain·Rioja,https://images.vivino.com/thumbs/G3MU5UwBQ1eCX5A6CiPivg_pb_x300.png
+123,Fym 2012,"{'average': '4.8', 'reviews': '34 ratings'}",South Africa·Franschhoek,https://images.vivino.com/thumbs/R4YsPEgZSseG0uOsb9Y8SQ_pb_x300.png
+124,Attis Mar Albariño 2016,"{'average': '4.7', 'reviews': '33 ratings'}",Spain·Rías Baixas,https://images.vivino.com/thumbs/O0reA-UNSISBwMILPPcFHg_pb_x300.png
+125,Chassagne-Montrachet 1er Cru 'Cailleret' 2005,"{'average': '4.7', 'reviews': '32 ratings'}",France·Chassagne-Montrachet 1er Cru 'Cailleret',https://images.vivino.com/thumbs/UGMGQEeZTVKYOLN7etPpag_pb_x300.png
+126,Rosen (Rosenberg) Riesling 2011,"{'average': '4.7', 'reviews': '33 ratings'}",Austria·Wagram,https://images.vivino.com/thumbs/yZHA_lU4Th6EMcezK3xAog_pb_x300.png
+127,Charles Heintz Vineyard Chardonnay 2013,"{'average': '4.7', 'reviews': '32 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/DX46cOq9T4mVsmEtkwbJng_pb_x300.png
+128,Pessac-Léognan Blanc (Grand Cru Classé de Graves) 2008,"{'average': '4.7', 'reviews': '31 ratings'}",France·Pessac-Léognan,https://images.vivino.com/thumbs/EvtJOugzTx-HZXZfdZvTsA_pb_x300.png
+129,Châteauneuf-du-Pape Réservé Blanc 2008,"{'average': '4.7', 'reviews': '31 ratings'}",France·Châteauneuf-du-Pape,https://images.vivino.com/thumbs/EtS3QtPDQAiiFF47ROuJ0g_pb_x300.png
+130,Meursault 1er Cru 'Charmes' 2009,"{'average': '4.7', 'reviews': '31 ratings'}",France·Meursault 1er Cru 'Charmes',https://images.vivino.com/thumbs/V_acPATYQm6TO4f97UCTdQ_pb_x300.png
+131,Kirchspiel Riesling GG 2006,"{'average': '4.7', 'reviews': '31 ratings'}",Germany·Rheinhessen,https://images.vivino.com/thumbs/3hM2pVPBQBWXRixHJHp_AQ_pb_x300.png
+132,Cuvée Aimé Rivesaltes 1978,"{'average': '4.7', 'reviews': '31 ratings'}",France·Rivesaltes,https://images.vivino.com/thumbs/m4bJw5sNSaauUxP_kLt1dw_pb_x300.png
+133,Chablis Grand Cru 'Clos' 2005,"{'average': '4.7', 'reviews': '31 ratings'}",France·Chablis Grand Cru 'Les Clos',https://images.vivino.com/thumbs/Z3rABzWkRk66rNa_qD8IVQ_pb_x300.png
+134,Bienvenues-Bâtard-Montrachet Grand Cru 2001,"{'average': '4.7', 'reviews': '30 ratings'}",France·Bienvenues-Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/qhfegylxSw6KORIIVt8Lmg_pb_x300.png
+135,Montrachet Grand Cru Marquis de Laguiche 2014,"{'average': '4.7', 'reviews': '30 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/1QoFUeYqQaCU07v4MBx8yw_pb_x300.png
+136,Chevalier-Montrachet Grand Cru 2012,"{'average': '4.7', 'reviews': '30 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/lD32nuv9Sw6sJ7eQ8M6FtA_pb_x300.png
+137,Chevalier Montrachet Grand Cru Les Demoiselles 2008,"{'average': '4.7', 'reviews': '30 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/wGAxsLWnT0i0p86KHxqN4A_pb_x300.png
+138,Estate Chardonnay (Cave Fermented) 2010,"{'average': '4.7', 'reviews': '30 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/KYXeZJ59SO2GJSkGuuKcWg_pb_x300.png
+139,Bienvenues-Bâtard-Montrachet Grand Cru 2007,"{'average': '4.7', 'reviews': '30 ratings'}",France·Bienvenues-Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/a-Vra87gQ0OPMV75NBirHQ_pb_x300.png
+140,Montrachet Grand Cru Marquis de Laguiche 2013,"{'average': '4.7', 'reviews': '30 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/1QoFUeYqQaCU07v4MBx8yw_pb_x300.png
+141,Estate Finch Hollow Unfiltered Chardonnay (Cave Fermented) 2012,"{'average': '4.7', 'reviews': '30 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/_PoiNSZ2RPejrY1CuYd40Q_pb_x300.png
+142,Condrieu Luminescence 2015,"{'average': '4.7', 'reviews': '29 ratings'}",France·Condrieu,https://images.vivino.com/thumbs/0uJ-HXpdROiyzwCOStux8w_pb_x300.png
+143,Scharzhofberger Riesling Auslese 2005,"{'average': '4.7', 'reviews': '29 ratings'}",Germany·Wiltingen,https://images.vivino.com/thumbs/V_iEN64AR7GyB20KeOkA0Q_pb_x300.png
+144,Bâtard-Montrachet Grand Cru 2015,"{'average': '4.7', 'reviews': '29 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/N-K6WtnRTTCz-6tx9db63g_pb_x300.png
+145,Puligny-Montrachet Premier Cru Champ-Canet 2012,"{'average': '4.7', 'reviews': '29 ratings'}",France·Puligny-Montrachet Premier Cru,https://images.vivino.com/thumbs/vQpiU9BQTjytRzAhmuhhMg_pb_x300.png
+146,Chablis Grand Cru 'Clos' 2010,"{'average': '4.7', 'reviews': '28 ratings'}",France·Chablis Grand Cru 'Les Clos',https://images.vivino.com/thumbs/Z3rABzWkRk66rNa_qD8IVQ_pb_x300.png
+147,Montrachet Grand Cru Marquis de Laguiche 1998,"{'average': '4.7', 'reviews': '28 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/1QoFUeYqQaCU07v4MBx8yw_pb_x300.png
+148,Pinot Gris Alsace Selection de Grains Nobles 2005,"{'average': '4.7', 'reviews': '28 ratings'}",France·Alsace,https://images.vivino.com/thumbs/_11CY9d7Q-OgmYa9k730-g_pb_x300.png
+149,Chardonnay Lauren 2015,"{'average': '4.7', 'reviews': '28 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/2NAVcOqORIetzF7Znkt56Q_pb_x300.png
+150,Criots-Bâtard-Montrachet Grand Cru 2010,"{'average': '4.7', 'reviews': '28 ratings'}",France·Criots-Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/P8kRvwH_SzeuLW59pwt7tg_pb_x300.png
+151,Chablis Grand Cru 'Blanchot' 2001,"{'average': '4.7', 'reviews': '28 ratings'}",France·Chablis Grand Cru 'Blanchot',https://images.vivino.com/thumbs/N-h7YbCuSSWSjantw5tYBA_pb_x300.png
+152,Ritchie Vineyard Chardonnay 2011,"{'average': '4.7', 'reviews': '27 ratings'}",United States·Russian River Valley,https://images.vivino.com/thumbs/86OPYU1CTYG-Bc7bkp5HLg_pb_x300.png
+153,Corton-Charlemagne Grand Cru 2004,"{'average': '4.7', 'reviews': '27 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/QIs0hHhdRHubnyUjY8U2kA_pb_x300.png
+154,Gold Chardonnay 2004,"{'average': '4.7', 'reviews': '27 ratings'}",United States·Napa Valley,https://thumbs.vivino.com/avatars/793134_171840_big_app_50x50.jpg
+155,Meursault 2010,"{'average': '4.7', 'reviews': '27 ratings'}",France·Meursault,https://images.vivino.com/thumbs/o40igVoUTkGVXDDl0SsO9w_pb_x300.png
+156,Montrachet Grand Cru 2013,"{'average': '4.7', 'reviews': '27 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+157,Bâtard-Montrachet Grand Cru 2014,"{'average': '4.7', 'reviews': '26 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/tEeCQZd1TRGH39Pc8iOsHQ_pb_x300.png
+158,Chablis Grand Cru 'Valmur' 2002,"{'average': '4.7', 'reviews': '26 ratings'}",France·Chablis Grand Cru 'Valmur',https://images.vivino.com/thumbs/NvJW_m_oSouF5BbUQ6a_Yg_pb_x300.png
+159,Chassagne-Montrachet Premier Cru 'Les Vergers' 2016,"{'average': '4.7', 'reviews': '26 ratings'}",France·Chassagne-Montrachet 1er Cru 'Les Vergers',https://images.vivino.com/thumbs/E-_IMe1XTVS0xExB7uo9aw_pb_x300.png
+160,Montrachet Grand Cru 1998,"{'average': '4.7', 'reviews': '26 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+161,Chevalier-Montrachet Grand Cru 2011,"{'average': '4.7', 'reviews': '26 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/yVJhEJawSHm7K1HJC74mJw_pb_x300.png
+162,Bâtard-Montrachet Grand Cru 2011,"{'average': '4.7', 'reviews': '25 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/Rf6CcQguSxKVoJ6CmWfkgA_pb_x300.png
+163,G-Max Riesling 2006,"{'average': '4.7', 'reviews': '25 ratings'}",Germany·Rheinhessen,https://images.vivino.com/thumbs/_tbErBvfQ3CcDGgJf-I6Dw_pb_x300.png
+164,Gaia & Rey Langhe 1998,"{'average': '4.7', 'reviews': '25 ratings'}",Italy·Langhe,https://images.vivino.com/thumbs/5K9sXX9CQ8eonyEU71IlDA_pb_x300.png
+165,Bâtard-Montrachet Grand Cru 1992,"{'average': '4.7', 'reviews': '25 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/EDQ4q_3FQ568NVspQBECug_pb_x300.png
+166,Les Preuses Chablís Grand Cru 2015,"{'average': '4.7', 'reviews': '25 ratings'}",France·Chablis Grand Cru 'Preuses',https://images.vivino.com/thumbs/ez2hWNpgSoCisXDrJ133gQ_pb_x300.png
+167,Montrachet Grand Cru Marquis de Laguiche 1992,"{'average': '4.7', 'reviews': '25 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/1QoFUeYqQaCU07v4MBx8yw_pb_x300.png
+168,Corton-Charlemagne Grand Cru 2003,"{'average': '4.7', 'reviews': '25 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/QIs0hHhdRHubnyUjY8U2kA_pb_x300.png
+169,Clos Sainte Hune Riesling Alsace 1996,"{'average': '4.7', 'reviews': '25 ratings'}",France·Alsace,https://images.vivino.com/thumbs/sOfai0jLTaKoP_6oXtvH9w_pb_x300.png
+170,Chardonnay 2012,"{'average': '4.7', 'reviews': '25 ratings'}",United States·Russian River Valley,https://images.vivino.com/thumbs/iIDBsbA5Rd2cIDOKUDcMJg_pb_x300.png
+171,Châteauneuf-du-Pape Réservé Blanc 2004,"{'average': '4.7', 'reviews': '25 ratings'}",France·Châteauneuf-du-Pape,https://images.vivino.com/thumbs/EtS3QtPDQAiiFF47ROuJ0g_pb_x300.png
+172,Pêra-Manca Branco 2016,"{'average': '4.6', 'reviews': '1467 ratings'}",Portugal·Evora,https://images.vivino.com/thumbs/NMa7ylfpRD6rjKEFR6w_lw_pb_x300.png
+173,Chevalier-Montrachet Grand Cru N.V.,"{'average': '4.6', 'reviews': '1381 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/lD32nuv9Sw6sJ7eQ8M6FtA_pb_x300.png
+174,Castillo Ygay Gran Reserva Especial Blanco N.V.,"{'average': '4.6', 'reviews': '1205 ratings'}",Spain·Rioja,https://images.vivino.com/thumbs/G3MU5UwBQ1eCX5A6CiPivg_pb_x300.png
+175,Montrachet Grand Cru Marquis de Laguiche N.V.,"{'average': '4.6', 'reviews': '1095 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/1QoFUeYqQaCU07v4MBx8yw_pb_x300.png
+176,Marcassin Vineyard Chardonnay N.V.,"{'average': '4.6', 'reviews': '800 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/JFRTPDUcTFiLFvtMXT-4Cg_pb_x300.png
+177,Puligny-Montrachet Les Enseignères N.V.,"{'average': '4.6', 'reviews': '534 ratings'}",France·Puligny-Montrachet,https://images.vivino.com/thumbs/rnSiwow4TqSCtPugr3mC2Q_pb_x300.png
+178,Pêra-Manca Branco 2007,"{'average': '4.6', 'reviews': '454 ratings'}",Portugal·Evora,https://images.vivino.com/thumbs/xILVphRlQV2wdzCZLzWg8g_pb_x300.png
+179,Mirabilis Grande Reserva Branco 2016,"{'average': '4.6', 'reviews': '437 ratings'}",Portugal·Douro,https://images.vivino.com/thumbs/0ALT9VhMQKiwYgkRtsJ7nA_pb_x300.png
+180,Chablis Grand Cru 'Clos' N.V.,"{'average': '4.6', 'reviews': '379 ratings'}",France·Chablis Grand Cru 'Les Clos',https://images.vivino.com/thumbs/Z3rABzWkRk66rNa_qD8IVQ_pb_x300.png
+181,Mirabilis Grande Reserva Branco 2015,"{'average': '4.6', 'reviews': '344 ratings'}",Portugal·Douro,https://images.vivino.com/thumbs/0ALT9VhMQKiwYgkRtsJ7nA_pb_x300.png
+182,The Judge Chardonnay N.V.,"{'average': '4.6', 'reviews': '337 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/xfK7hQR7T6WJjvIIsDW21A_pb_x300.png
+183,Gaia & Rey Langhe 2006,"{'average': '4.6', 'reviews': '272 ratings'}",Italy·Langhe,https://images.vivino.com/thumbs/5K9sXX9CQ8eonyEU71IlDA_pb_x300.png
+184,Meursault Les Narvaux N.V.,"{'average': '4.6', 'reviews': '252 ratings'}",France·Meursault,https://images.vivino.com/thumbs/EwrsnmmTSFWBou70XCC1kw_pb_x300.png
+185,Montrachet Grand Cru N.V.,"{'average': '4.6', 'reviews': '243 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/2YDGRewSSFuiQWel9WCJRw_pb_x300.png
+186,Meursault Blanc 2009,"{'average': '4.6', 'reviews': '234 ratings'}",France·Meursault,https://images.vivino.com/thumbs/RqOPX5tRQOyZ9XN3hjhMCA_pb_x300.png
+187,Montrachet Grand Cru N.V.,"{'average': '4.6', 'reviews': '227 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/xo7SehG9R4Wy7GktKzt5BQ_pb_x300.png
+188,Kirchenstück G.C N.V.,"{'average': '4.6', 'reviews': '228 ratings'}",Germany·Pfalz,https://images.vivino.com/thumbs/jG06hN5hRp6-N7_G28xkow_pb_x300.png
+189,Chardonnay 2015,"{'average': '4.6', 'reviews': '218 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/xVKeSYrDTIOOjSPciQG0SA_pb_x300.png
+190,Meursault Blanc 2011,"{'average': '4.6', 'reviews': '214 ratings'}",France·Meursault,https://images.vivino.com/thumbs/RqOPX5tRQOyZ9XN3hjhMCA_pb_x300.png
+191,Branco 2018,"{'average': '4.6', 'reviews': '213 ratings'}",Romania·Recas,https://images.vivino.com/thumbs/DkwMnk83QEam4EJNpotl_g_pb_x300.png
+192,Gaia & Rey Langhe 2009,"{'average': '4.6', 'reviews': '208 ratings'}",Italy·Langhe,https://images.vivino.com/thumbs/5K9sXX9CQ8eonyEU71IlDA_pb_x300.png
+193,Clos Sainte Hune Riesling Alsace 2006,"{'average': '4.6', 'reviews': '207 ratings'}",France·Alsace,https://images.vivino.com/thumbs/sOfai0jLTaKoP_6oXtvH9w_pb_x300.png
+194,Bâtard-Montrachet Grand Cru N.V.,"{'average': '4.6', 'reviews': '205 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/0U-VMcXeQq-lAitS3Zv_Pg_pb_x300.png
+195,Chardonnay CIX N.V.,"{'average': '4.6', 'reviews': '203 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/mPWBSs3FQHuG52fEionjYQ_pb_x300.png
+196,Chardonnay Eastside N.V.,"{'average': '4.6', 'reviews': '200 ratings'}",United States·Russian River Valley,https://images.vivino.com/thumbs/6JonqprfR_SMBTqliXjB7Q_pb_x300.png
+197,Singerriedel - Riesling Smaragd 2013,"{'average': '4.6', 'reviews': '196 ratings'}",Austria·Wachau,https://images.vivino.com/thumbs/W7Tblf6DSU6rZjeCpIkJ8Q_pb_x300.png
+198,Cuvée Indigène Chardonnay N.V.,"{'average': '4.6', 'reviews': '192 ratings'}",United States·Knights Valley,https://images.vivino.com/thumbs/cCbTIg1uS2CWm9KYZ0uKXQ_pb_x300.png
+199,Montrachet Grand Cru N.V.,"{'average': '4.6', 'reviews': '190 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/AzV_MtQeRMek7hwD4cmdzw_pb_x300.png
+200,Singerriedel - Riesling Smaragd 2011,"{'average': '4.6', 'reviews': '179 ratings'}",Austria·Wachau,https://images.vivino.com/thumbs/W7Tblf6DSU6rZjeCpIkJ8Q_pb_x300.png
+201,Bâtard-Montrachet Grand Cru N.V.,"{'average': '4.6', 'reviews': '175 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/Rf6CcQguSxKVoJ6CmWfkgA_pb_x300.png
+202,Palladius 2010,"{'average': '4.6', 'reviews': '172 ratings'}",South Africa·Swartland,https://images.vivino.com/thumbs/d4sKYj3CTA68vBBdabj-Ng_pb_x300.png
+203,Castillo Ygay Gran Reserva Especial Blanco 2009,"{'average': '4.6', 'reviews': '166 ratings'}",Spain·Rioja,https://images.vivino.com/thumbs/G3MU5UwBQ1eCX5A6CiPivg_pb_x300.png
+204,Meursault Blanc 2012,"{'average': '4.6', 'reviews': '163 ratings'}",France·Meursault,https://images.vivino.com/thumbs/RqOPX5tRQOyZ9XN3hjhMCA_pb_x300.png
+205,Chevalier-Montrachet Grand Cru Blanc N.V.,"{'average': '4.6', 'reviews': '163 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/y9Nr0qD6TISYL4H3X2biZA_pb_x300.png
+206,Y 2013,"{'average': '4.6', 'reviews': '157 ratings'}",France·Bordeaux Supérieur,https://images.vivino.com/thumbs/6dP83oDrQy2Zv6es9tHp7w_pb_x300.png
+207,Il San Lorenzo Bianco 2004,"{'average': '4.6', 'reviews': '157 ratings'}",Italy·Marche,https://images.vivino.com/thumbs/YL3ZizVbTbK1htyrRBjTLA_pb_x300.png
+208,Meursault Blanc 2010,"{'average': '4.6', 'reviews': '156 ratings'}",France·Meursault,https://images.vivino.com/thumbs/RqOPX5tRQOyZ9XN3hjhMCA_pb_x300.png
+209,Meursault-Charmes Premier Cru 2011,"{'average': '4.6', 'reviews': '155 ratings'}",France·Meursault Premier Cru,https://images.vivino.com/thumbs/dvfj6Iw2QoGHm0BQEl8IEA_pb_x300.png
+210,Silex 2006,"{'average': '4.6', 'reviews': '150 ratings'}",France·Pouilly-Fumé,https://images.vivino.com/thumbs/zNS7GA_qSZu0G0xzfro8dw_pb_x300.png
+211,Silex 2005,"{'average': '4.6', 'reviews': '145 ratings'}",France·Pouilly-Fumé,https://images.vivino.com/thumbs/zNS7GA_qSZu0G0xzfro8dw_pb_x300.png
+212,Marcassin Vineyard Chardonnay 2012,"{'average': '4.6', 'reviews': '138 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/JFRTPDUcTFiLFvtMXT-4Cg_pb_x300.png
+213,Coeur Blanc N.V.,"{'average': '4.6', 'reviews': '135 ratings'}",United States·Dundee Hills,https://images.vivino.com/thumbs/m2n32SOjSueMSSVUUfqhVg_pb_x300.png
+214,Vieilles Vignes Châteauneuf-du-Pape Blanc 2014,"{'average': '4.6', 'reviews': '135 ratings'}",France·Châteauneuf-du-Pape,https://images.vivino.com/thumbs/D4fu0T3sTHSdQ8xDBj4ROQ_pb_x300.png
+215,Meursault Blanc 2006,"{'average': '4.6', 'reviews': '133 ratings'}",France·Meursault,https://images.vivino.com/thumbs/RqOPX5tRQOyZ9XN3hjhMCA_pb_x300.png
+216,Chevalier-Montrachet Grand Cru 2009,"{'average': '4.6', 'reviews': '133 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/lD32nuv9Sw6sJ7eQ8M6FtA_pb_x300.png
+217,Meursault Premier Cru Genevrieres N.V.,"{'average': '4.6', 'reviews': '130 ratings'}",France·Meursault Premier Cru,https://images.vivino.com/thumbs/F46A0w4qSHeUx9jZ3D-JpA_pb_x300.png
+218,Batard-Montrachet Grand Cru N.V.,"{'average': '4.6', 'reviews': '130 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/4OLpxNskRsW9fBdFGlMrBQ_pb_x300.png
+219,Meursault Blanc 2005,"{'average': '4.6', 'reviews': '127 ratings'}",France·Meursault,https://images.vivino.com/thumbs/RqOPX5tRQOyZ9XN3hjhMCA_pb_x300.png
+220,Chablis Premier Cru 'Butteaux' 2013,"{'average': '4.6', 'reviews': '126 ratings'}",France·Chablis 1er Cru 'Butteaux',https://images.vivino.com/thumbs/eBzMh3SOSDGAmJv0cg2vnw_pb_x300.png
+221,The FMC Chenin Blanc 2009,"{'average': '4.6', 'reviews': '126 ratings'}",South Africa·Stellenbosch,https://images.vivino.com/thumbs/PSJ4rCFvRcaUWmX0-6USNA_pb_x300.png
+222,Marcassin Vineyard Chardonnay 2010,"{'average': '4.6', 'reviews': '123 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/JFRTPDUcTFiLFvtMXT-4Cg_pb_x300.png
+223,Bâtard-Montrachet Grand Cru N.V.,"{'average': '4.6', 'reviews': '122 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/z5nNncTkSIiEpnNAKswiHA_pb_x300.png
+224,Leeu Passant Elandskloof Chardonnay 2016,"{'average': '4.6', 'reviews': '120 ratings'}",South Africa·Overberg,https://images.vivino.com/thumbs/Cj9S8xx7SAuLtiCznUN3yg_pb_x300.png
+225,Vinhas da Princesa Branco 2014,"{'average': '4.6', 'reviews': '119 ratings'}",Portugal·Douro,https://images.vivino.com/thumbs/7DSdF1j0Sm62JBcIG7lpUA_pb_x300.png
+226,Y 2005,"{'average': '4.6', 'reviews': '117 ratings'}",France·Bordeaux Supérieur,https://images.vivino.com/thumbs/6dP83oDrQy2Zv6es9tHp7w_pb_x300.png
+227,Corton-Charlemagne Grand Cru 2012,"{'average': '4.6', 'reviews': '116 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/8UJCVdBiRTKm9LMYcZHAsQ_pb_x300.png
+228,Meursault-Charmes Premier Cru 2010,"{'average': '4.6', 'reviews': '114 ratings'}",France·Meursault Premier Cru,https://images.vivino.com/thumbs/dvfj6Iw2QoGHm0BQEl8IEA_pb_x300.png
+229,Corton-Charlemagne Grand Cru 2012,"{'average': '4.6', 'reviews': '111 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/BUXBYkO4TEaOSKHBjRjqRQ_pb_x300.png
+230,Marcassin Vineyard Chardonnay 2009,"{'average': '4.6', 'reviews': '111 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/JFRTPDUcTFiLFvtMXT-4Cg_pb_x300.png
+231,Chevalier-Montrachet Grand Cru 2011,"{'average': '4.6', 'reviews': '110 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/lD32nuv9Sw6sJ7eQ8M6FtA_pb_x300.png
+232,Corton-Charlemagne Grand Cru 2016,"{'average': '4.6', 'reviews': '110 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/oIEEHLtPQgidLfcJEoYalg_pb_x300.png
+233,Appius 2011,"{'average': '4.6', 'reviews': '108 ratings'}",Italy·Südtirol - Alto Adige,https://images.vivino.com/thumbs/ceXWLNRNQreXida6Gd40cQ_pb_x300.png
+234,Brézé Saumur Blanc 2011,"{'average': '4.6', 'reviews': '108 ratings'}",France·Saumur,https://images.vivino.com/thumbs/tUOECBfBTuCJzAegm2aK5A_pb_x300.png
+235,Estate Vineyard Chardonnay 2013,"{'average': '4.6', 'reviews': '107 ratings'}",Australia·Beechworth,https://images.vivino.com/thumbs/sG8QtW-zTdCtddOUYgs_hw_pb_x300.png
+236,Kirchspiel Riesling GG 2012,"{'average': '4.6', 'reviews': '107 ratings'}",Germany·Rheinhessen,https://images.vivino.com/thumbs/3hM2pVPBQBWXRixHJHp_AQ_pb_x300.png
+237,Meursault Blanc 2015,"{'average': '4.6', 'reviews': '104 ratings'}",France·Meursault,https://images.vivino.com/thumbs/RqOPX5tRQOyZ9XN3hjhMCA_pb_x300.png
+238,Point Rouge Chardonnay N.V.,"{'average': '4.7', 'reviews': '103 ratings'}",United States·Knights Valley,https://images.vivino.com/thumbs/e9g2mO0jSYaN_uyUliRDhw_pb_x300.png
+239,Napa Valley Chardonnay 2010,"{'average': '4.6', 'reviews': '102 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/gAydmmSBTr-4FbYj9An_eA_pb_x300.png
+240,Pinot Bianco 2002,"{'average': '4.6', 'reviews': '99 ratings'}",Italy·Südtirol - Alto Adige,https://images.vivino.com/thumbs/iRzZ0304SXKh9ta8tsn0hg_pb_x300.png
+241,Vieilles Vignes Reserve Le Clos de Monsieur Noly Pouilly-Fuissé 2005,"{'average': '4.6', 'reviews': '98 ratings'}",France·Pouilly-Fuissé,https://images.vivino.com/thumbs/oaE_VgfGTk65ZOXcS0NU6Q_pb_x300.png
+242,Belle Côte Chardonnay 2013,"{'average': '4.6', 'reviews': '98 ratings'}",United States·Knights Valley,https://images.vivino.com/thumbs/EWNIy5joRa-TxGeICF4Kxw_pb_x300.png
+243,Bâtard-Montrachet Grand Cru 2010,"{'average': '4.6', 'reviews': '98 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/EDQ4q_3FQ568NVspQBECug_pb_x300.png
+244,Meursault Les Rougeots 2009,"{'average': '4.6', 'reviews': '98 ratings'}",France·Meursault,https://images.vivino.com/thumbs/l5W5NRvZR_SzClIDSnG5Ag_pb_x300.png
+245,Sorte O Soro Val do Bibei 2015,"{'average': '4.6', 'reviews': '96 ratings'}",Spain·Valdeorras,https://images.vivino.com/thumbs/zIh4iW-pRNim7pLF_q2QAg_pb_x300.png
+246,Corton-Charlemagne Grand Cru N.V.,"{'average': '4.6', 'reviews': '96 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/I4O63FNbSfSXf3mSyqKArQ_pb_x300.png
+247,Kevin John Chardonnay 2012,"{'average': '4.6', 'reviews': '92 ratings'}",Australia·Margaret River,https://images.vivino.com/thumbs/u7OPwBB8Qs2VUxRsrSOoFA_pb_x300.png
+248,Clos Sainte Hune Riesling Alsace 2004,"{'average': '4.6', 'reviews': '92 ratings'}",France·Alsace,https://images.vivino.com/thumbs/sOfai0jLTaKoP_6oXtvH9w_pb_x300.png
+249,Scharzhofberger Riesling Auslese 2011,"{'average': '4.6', 'reviews': '92 ratings'}",Germany·Wiltingen,https://images.vivino.com/thumbs/V_iEN64AR7GyB20KeOkA0Q_pb_x300.png
+250,Clos Sainte Hune Riesling Alsace 2003,"{'average': '4.6', 'reviews': '92 ratings'}",France·Alsace,https://images.vivino.com/thumbs/sOfai0jLTaKoP_6oXtvH9w_pb_x300.png
+251,La Carriere Chardonnay 2013,"{'average': '4.6', 'reviews': '92 ratings'}",United States·Knights Valley,https://images.vivino.com/thumbs/KuRAb0xzRI2Uvgm-S_XBmw_pb_x300.png
+252,Bâtard-Montrachet Grand Cru 2001,"{'average': '4.6', 'reviews': '89 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/EDQ4q_3FQ568NVspQBECug_pb_x300.png
+253,Brézé Saumur Blanc 2010,"{'average': '4.6', 'reviews': '88 ratings'}",France·Saumur,https://images.vivino.com/thumbs/tUOECBfBTuCJzAegm2aK5A_pb_x300.png
+254,Condrieu 2014,"{'average': '4.6', 'reviews': '88 ratings'}",France·Condrieu,https://images.vivino.com/thumbs/tqIGE6zpT5qjI2pWy3vTtw_pb_x300.png
+255,Buisson Renard 2007,"{'average': '4.6', 'reviews': '81 ratings'}",France·Pouilly-Fumé,https://images.vivino.com/thumbs/EsW3ya7wTQKo7DRfEhlx_g_pb_x300.png
+256,Saarburger Rausch Riesling Auslese 2010,"{'average': '4.6', 'reviews': '80 ratings'}",Germany·Mosel,https://images.vivino.com/thumbs/nGTRT9dgTROO9eG9ZpF-kg_pb_x300.png
+257,Chablis Grand Cru 'Les Clos' 2013,"{'average': '4.6', 'reviews': '77 ratings'}",France·Chablis Grand Cru 'Les Clos',https://images.vivino.com/thumbs/HcDtUT5SS4yGEDKNbiokOA_pb_x300.png
+258,Beaune 1er Cru 'Clos des Mouches' Blanc 2016,"{'average': '4.6', 'reviews': '76 ratings'}",France·Beaune 1er Cru 'Le Clos des Mouches',https://images.vivino.com/thumbs/bPwERMF4RFK3neCnspTFdA_pb_x300.png
+259,Durell Vineyard Chardonnay 2013,"{'average': '4.6', 'reviews': '75 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/LRP0S8JrRQijCjemChbtaA_pb_x300.png
+260,Puligny-Montrachet 1er Cru Les Pucelles 2015,"{'average': '4.6', 'reviews': '75 ratings'}",France·Puligny-Montrachet Premier Cru,https://images.vivino.com/thumbs/6_Co3020RKCKxGqSX8PTIQ_pb_x300.png
+261,Orestilla 2017,"{'average': '4.6', 'reviews': '74 ratings'}",Italy·Lugana,https://images.vivino.com/thumbs/WEz28gh4QjK8VckcwEWBeQ_pb_x300.png
+262,Unendlich Riesling 2013,"{'average': '4.6', 'reviews': '72 ratings'}",Austria·Wachau,https://images.vivino.com/thumbs/Clc1N_neRBq_orOAKw9aqg_pb_x300.png
+263,Kirchspiel Riesling GG 2015,"{'average': '4.6', 'reviews': '71 ratings'}",Germany·Rheinhessen,https://images.vivino.com/thumbs/3hM2pVPBQBWXRixHJHp_AQ_pb_x300.png
+264,Chassagne-Montrachet Premier Cru 'Les Vergers' 2013,"{'average': '4.6', 'reviews': '71 ratings'}",France·Chassagne-Montrachet 1er Cru 'Les Vergers',https://images.vivino.com/highlights/icon/top_ranked.svg
+265,Dutton Ranch Chardonnay 2014,"{'average': '4.6', 'reviews': '71 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/x58J7R8URNiPJQDwHkJrKw_pb_x300.png
+266,Chardonnay 1973,"{'average': '4.6', 'reviews': '71 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/DI-lAzdCS5K-MWySzyj_Fg_pb_x300.png
+267,Guerriero del Mare 2017,"{'average': '4.6', 'reviews': '70 ratings'}",Italy·Marche,https://images.vivino.com/thumbs/DPTu_OHCTL2zwFQtiVNbrA_pb_x300.png
+268,Puligny-Montrachet 1er Cru Les Pucelles 1996,"{'average': '4.6', 'reviews': '67 ratings'}",France·Puligny-Montrachet Premier Cru,https://images.vivino.com/thumbs/6_Co3020RKCKxGqSX8PTIQ_pb_x300.png
+269,Mon Plaisir Chardonnay 2013,"{'average': '4.6', 'reviews': '66 ratings'}",United States·Knights Valley,https://images.vivino.com/thumbs/kI7dIYpZQWK1D2GCeQ4D2g_pb_x300.png
+270,Chevalier-Montrachet Grand Cru 2004,"{'average': '4.6', 'reviews': '66 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/lD32nuv9Sw6sJ7eQ8M6FtA_pb_x300.png
+271,Montrachet Grand Cru Blanc 2008,"{'average': '4.6', 'reviews': '64 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/S9AYHXMaT7mXIVdpxB-juA_pb_x300.png
+272,Stone Flat Vineyard Chardonnay 2014,"{'average': '4.6', 'reviews': '64 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/ke1_wyNvTVW3JOUIb2al2A_pb_x300.png
+273,La Carriere Chardonnay 2011,"{'average': '4.6', 'reviews': '63 ratings'}",United States·Knights Valley,https://images.vivino.com/thumbs/KuRAb0xzRI2Uvgm-S_XBmw_pb_x300.png
+274,Wehlener Sonnenuhr Riesling Auslese 1995,"{'average': '4.6', 'reviews': '63 ratings'}",Germany·Wehlen,https://images.vivino.com/thumbs/z7B_lm7URWy88F0inHlZ-w_pb_x300.png
+275,Meursault-Perrières Premier Cru 2009,"{'average': '4.6', 'reviews': '63 ratings'}",France·Meursault Premier Cru,https://images.vivino.com/thumbs/CHcdmEQ1QAeKnKcX96AghA_pb_x300.png
+276,Corton-Charlemagne Grand Cru 2015,"{'average': '4.6', 'reviews': '62 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/BUXBYkO4TEaOSKHBjRjqRQ_pb_x300.png
+277,Belle Côte Chardonnay 2011,"{'average': '4.6', 'reviews': '62 ratings'}",United States·Knights Valley,https://images.vivino.com/thumbs/EWNIy5joRa-TxGeICF4Kxw_pb_x300.png
+278,Estate Vineyard Chardonnay 2014,"{'average': '4.6', 'reviews': '61 ratings'}",Australia·Beechworth,https://images.vivino.com/thumbs/sG8QtW-zTdCtddOUYgs_hw_pb_x300.png
+279,La Carriere Chardonnay 2016,"{'average': '4.6', 'reviews': '61 ratings'}",United States·Knights Valley,https://images.vivino.com/thumbs/KuRAb0xzRI2Uvgm-S_XBmw_pb_x300.png
+280,Chevalier-Montrachet Grand Cru 2002,"{'average': '4.6', 'reviews': '61 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/lD32nuv9Sw6sJ7eQ8M6FtA_pb_x300.png
+281,Bâtard-Montrachet Grand Cru 2013,"{'average': '4.6', 'reviews': '61 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/pWOdFPoyQ427uoHW_l941g_pb_x300.png
+282,Montrachet Grand Cru 2011,"{'average': '4.6', 'reviews': '60 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+283,Entre Chien et Loup 2015,"{'average': '4.6', 'reviews': '60 ratings'}",United States·Central Coast,https://images.vivino.com/thumbs/Wdhc5PnSRh2g43ZI3s-CWA_pb_x300.png
+284,Meursault 1er Cru 'Clos des Bouchères' Monopole 2013,"{'average': '4.6', 'reviews': '59 ratings'}",France·Meursault 1er Cru 'Les Bouchères',https://images.vivino.com/thumbs/DOcDczgsSOSmkAG5GjSyJQ_pb_x300.png
+285,Singerriedel - Riesling Smaragd 2009,"{'average': '4.6', 'reviews': '58 ratings'}",Austria·Wachau,https://images.vivino.com/thumbs/W7Tblf6DSU6rZjeCpIkJ8Q_pb_x300.png
+286,Meursault 1er Cru 'Perrières' 2011,"{'average': '4.6', 'reviews': '57 ratings'}",France·Meursault 1er Cru 'Perrières',https://images.vivino.com/thumbs/V0ybouHMQQa5Xu_Pj8GlQA_pb_x300.png
+287,Chevalier-Montrachet Grand Cru 2005,"{'average': '4.6', 'reviews': '57 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/lD32nuv9Sw6sJ7eQ8M6FtA_pb_x300.png
+288,Montrachet Grand Cru Marquis de Laguiche 2000,"{'average': '4.6', 'reviews': '57 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/1QoFUeYqQaCU07v4MBx8yw_pb_x300.png
+289,Meursault-Gouttes D'Or Premier Cru 2011,"{'average': '4.6', 'reviews': '57 ratings'}",France·Meursault Premier Cru,https://images.vivino.com/thumbs/xcnXGj2-Sa6kRZXlr2b0Ww_pb_x300.png
+290,Chardonnay Ma Princesse 2013,"{'average': '4.6', 'reviews': '57 ratings'}",United States·Russian River Valley,https://images.vivino.com/thumbs/Oxokhd-lR4iOQ64hYG4t1w_pb_x300.png
+291,Corton-Charlemagne Grand Cru 2013,"{'average': '4.6', 'reviews': '57 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/dPrnpmaNS5a5sgvb4TsunA_pb_x300.png
+292,Corton-Charlemagne Grand Cru 2011,"{'average': '4.6', 'reviews': '56 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/LbGb8m6hTeitdD0g3ZAQMw_pb_x300.png
+293,Wehlener Sonnenuhr Riesling Auslese 1997,"{'average': '4.6', 'reviews': '56 ratings'}",Germany·Wehlen,https://images.vivino.com/thumbs/z7B_lm7URWy88F0inHlZ-w_pb_x300.png
+294,Corton-Charlemagne Grand Cru 2008,"{'average': '4.6', 'reviews': '56 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/1qMej-1RSaG7s_z1xOfq9Q_pb_x300.png
+295,Marcassin Vineyard Chardonnay 2008,"{'average': '4.6', 'reviews': '55 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/JFRTPDUcTFiLFvtMXT-4Cg_pb_x300.png
+296,Bâtard-Montrachet Grand Cru 2009,"{'average': '4.6', 'reviews': '55 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/RIMuIFwaQVa-HkHKNztfxA_pb_x300.png
+297,Chevalier-Montrachet Grand Cru 2010,"{'average': '4.6', 'reviews': '55 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/lD32nuv9Sw6sJ7eQ8M6FtA_pb_x300.png
+298,Brézé Saumur Blanc 2005,"{'average': '4.6', 'reviews': '55 ratings'}",France·Saumur,https://images.vivino.com/thumbs/tUOECBfBTuCJzAegm2aK5A_pb_x300.png
+299,Meursault 1er Cru 'Perrières' 2013,"{'average': '4.6', 'reviews': '55 ratings'}",France·Meursault 1er Cru 'Perrières',https://images.vivino.com/thumbs/pvNGBFhFSLKFin1vIX_KQA_pb_x300.png
+300,Chardonnay 2012,"{'average': '4.6', 'reviews': '54 ratings'}",South Africa·Stellenbosch,https://images.vivino.com/thumbs/AZ9GPtXgQ2-XUH9AKkusaQ_pb_x300.png
+301,Abts Erde Riesling 2015,"{'average': '4.6', 'reviews': '54 ratings'}",Germany·Rheinhessen,https://images.vivino.com/thumbs/e-wQMtuaTqORgDsptlx5ng_pb_x300.png
+302,Chevalier-Montrachet Grand Cru Blanc 2010,"{'average': '4.6', 'reviews': '54 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/CdGn0JdOTzacM8w2FJQhKg_pb_x300.png
+303,Masianco Pinot Grigio - Verduzzo 2001,"{'average': '4.6', 'reviews': '53 ratings'}",Italy·Venezia,https://images.vivino.com/thumbs/PTbCaX-GT3GPKOIC7tGH6g_pb_x300.png
+304,Bâtard-Montrachet Grand Cru 2012,"{'average': '4.6', 'reviews': '53 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/RIMuIFwaQVa-HkHKNztfxA_pb_x300.png
+305,Chardonnay 2001,"{'average': '4.6', 'reviews': '53 ratings'}",United States·Los Carneros,https://images.vivino.com/thumbs/wofRa9S3T2eqYtwZlpx9IA_pb_x300.png
+306,Nettare Veneto Bianco N.V.,"{'average': '4.6', 'reviews': '54 ratings'}",Italy·Veneto,https://images.vivino.com/thumbs/wO3jXKckRA-USr-C7HT1NA_pb_x300.png
+307,Puligny-Montrachet 'Grands Champs' 2010,"{'average': '4.6', 'reviews': '53 ratings'}",France·Puligny-Montrachet,https://images.vivino.com/thumbs/v4X5v0QJQ0eQlPc9B8YlTQ_pb_x300.png
+308,Chevalier-Montrachet Grand Cru 1999,"{'average': '4.6', 'reviews': '53 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/lD32nuv9Sw6sJ7eQ8M6FtA_pb_x300.png
+309,Bâtard-Montrachet Grand Cru 2014,"{'average': '4.6', 'reviews': '52 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/EDQ4q_3FQ568NVspQBECug_pb_x300.png
+310,Montrachet Grand Cru Marquis de Laguiche 2009,"{'average': '4.6', 'reviews': '52 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/1QoFUeYqQaCU07v4MBx8yw_pb_x300.png
+311,Aile d'Argent Blanc Bordeaux 1975,"{'average': '4.6', 'reviews': '52 ratings'}",France·Bordeaux,https://images.vivino.com/thumbs/mUcYdy79QZyMIo3tsiKq8A_pb_x300.png
+312,Wehlener Sonnenuhr Riesling Auslese 1983,"{'average': '4.6', 'reviews': '52 ratings'}",Germany·Wehlen,https://images.vivino.com/thumbs/z7B_lm7URWy88F0inHlZ-w_pb_x300.png
+313,Chardonnay Reserve 2008,"{'average': '4.6', 'reviews': '51 ratings'}",United States·Los Carneros,https://images.vivino.com/thumbs/yVFnJFJ9QHOCAYmvFedERw_pb_x300.png
+314,Wehlener Sonnenuhr Riesling Auslese 2015,"{'average': '4.6', 'reviews': '51 ratings'}",Germany·Mosel,https://images.vivino.com/thumbs/faerPtwPSN-fvokzTc6IUQ_pb_x300.png
+315,Meursault Les Rougeots 2008,"{'average': '4.6', 'reviews': '51 ratings'}",France·Meursault,https://images.vivino.com/thumbs/l5W5NRvZR_SzClIDSnG5Ag_pb_x300.png
+316,Belle Côte Chardonnay 2010,"{'average': '4.6', 'reviews': '51 ratings'}",United States·Knights Valley,https://images.vivino.com/thumbs/EWNIy5joRa-TxGeICF4Kxw_pb_x300.png
+317,Bâtard-Montrachet Grand Cru 2015,"{'average': '4.6', 'reviews': '51 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/EDQ4q_3FQ568NVspQBECug_pb_x300.png
+318,Sorte O Soro Val do Bibei 2016,"{'average': '4.6', 'reviews': '50 ratings'}",Spain·Valdeorras,https://images.vivino.com/thumbs/zIh4iW-pRNim7pLF_q2QAg_pb_x300.png
+319,One Sixteen Chardonnay 2017,"{'average': '4.6', 'reviews': '50 ratings'}",United States·Russian River Valley,https://images.vivino.com/thumbs/iYxPy13lS_GpIRY_FKFyYg_pb_x300.png
+320,River Block Chardonnay 2013,"{'average': '4.6', 'reviews': '49 ratings'}",United States·Russian River Valley,https://images.vivino.com/thumbs/_-D5u5qPQQmc3LDTJDgFuw_pb_x300.png
+321,Bienvenues-Bâtard-Montrachet Grand Cru 2011,"{'average': '4.6', 'reviews': '49 ratings'}",France·Bienvenues-Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/qhfegylxSw6KORIIVt8Lmg_pb_x300.png
+322,Alentejo Dom Rafael Branco 2008,"{'average': '4.6', 'reviews': '49 ratings'}",Portugal·Alentejo,https://images.vivino.com/thumbs/v1HrU-gQSA-K6p-Q26zRxw_pb_x300.png
+323,Puligny-Montrachet Les Enseignères 2009,"{'average': '4.6', 'reviews': '49 ratings'}",France·Puligny-Montrachet,https://images.vivino.com/thumbs/rnSiwow4TqSCtPugr3mC2Q_pb_x300.png
+324,Chassagne-Montrachet Premier Cru 'Morgeot' Blanc 2010,"{'average': '4.6', 'reviews': '49 ratings'}",France·Chassagne-Montrachet 1er Cru 'Morgeot',https://images.vivino.com/thumbs/9JPBS8OPR36TY_irugF98w_pb_x300.png
+325,Chardonnay 2015,"{'average': '4.6', 'reviews': '49 ratings'}",United States·Russian River Valley,https://images.vivino.com/thumbs/M8fSzJv6QMORODa6KeyP3g_pb_x300.png
+326,Chardonnay 2013,"{'average': '4.6', 'reviews': '49 ratings'}",Switzerland·Graubünden,https://images.vivino.com/thumbs/A8JXP6kTRIiIoJIZ2Ntbtg_pb_x300.png
+327,Chevalier-Montrachet Grand Cru 2001,"{'average': '4.6', 'reviews': '48 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/lD32nuv9Sw6sJ7eQ8M6FtA_pb_x300.png
+328,Meukow Collection Terroir Fins Bois Pineau Des Charentes N.V.,"{'average': '4.6', 'reviews': '48 ratings'}",France·Cognac,https://thumbs.vivino.com/avatars/717925_407712_big_app_50x50.jpg
+329,Bâtard-Montrachet Grand Cru N.V.,"{'average': '4.6', 'reviews': '48 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/uGxkzB6nRzuCXamCFBZj9A_pb_x300.png
+330,Wehlener Sonnenuhr Riesling Spätlese 2005,"{'average': '4.6', 'reviews': '47 ratings'}",Germany·Wehlen,https://images.vivino.com/thumbs/H6y8DYFpT-OkXnzNtyO43g_pb_x300.png
+331,Montrachet Grand Cru 2001,"{'average': '4.6', 'reviews': '47 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+332,Chardonnay Piemonte Riserva della Famiglia 2007,"{'average': '4.6', 'reviews': '47 ratings'}",Italy·Piemonte,https://images.vivino.com/thumbs/37lN6oJfQjWbjFqOKa49JA_pb_x300.png
+333,Zeltinger Sonnenuhr Riesling Auslese*** 2002,"{'average': '4.6', 'reviews': '47 ratings'}",Germany·Mosel,https://images.vivino.com/thumbs/cRfUP4-9Q_ekH1Ml_kSwcg_pb_x300.png
+334,Chassagne-Montrachet Premier Cru 'Les Ruchottes' Blanc 2015,"{'average': '4.6', 'reviews': '47 ratings'}",France·Chassagne-Montrachet 1er Cru 'Les Grandes Ruchottes',https://images.vivino.com/thumbs/XvOxHjgLR5CVqIstKpxT3w_pb_x300.png
+335,Mev. Kirsten (Die Ouwingerdreeks) 2015,"{'average': '4.6', 'reviews': '46 ratings'}",South Africa·Stellenbosch,https://images.vivino.com/thumbs/pkBlRgINScGaWW_7V4RAHw_pb_x300.png
+336,Napa Valley Chardonnay 2009,"{'average': '4.6', 'reviews': '46 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/gAydmmSBTr-4FbYj9An_eA_pb_x300.png
+337,Clos des Capucins Cuvée Sainte Catherine L'Inédit Riesling Alsace Grand Cru Schlossberg 2009,"{'average': '4.6', 'reviews': '46 ratings'}",France·Alsace Grand Cru,https://images.vivino.com/thumbs/DKBktjSHRiSnFyHUxMcyuQ_pb_x300.png
+338,Viognier N.V.,"{'average': '4.6', 'reviews': '46 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/7dxxujnUS36_KaTKL_bcvw_pb_x300.png
+339,Bâtard-Montrachet Grand Cru 2014,"{'average': '4.6', 'reviews': '46 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/pWOdFPoyQ427uoHW_l941g_pb_x300.png
+340,Donà Blanc 2012,"{'average': '4.6', 'reviews': '46 ratings'}",Italy·Trentino-Alto Adige,https://images.vivino.com/thumbs/2cnKeOdmSk-2_v_zc6du8g_pb_x300.png
+341,Estate Vineyard Chardonnay 2004,"{'average': '4.6', 'reviews': '46 ratings'}",Australia·Beechworth,https://images.vivino.com/thumbs/sG8QtW-zTdCtddOUYgs_hw_pb_x300.png
+342,Puligny-Montrachet 1er Cru Le Cailleret 2006,"{'average': '4.6', 'reviews': '46 ratings'}",France·Puligny-Montrachet Premier Cru,https://images.vivino.com/thumbs/Q7YsINAjSXKoF-bReiq9Zg_pb_x300.png
+343,Olivet Lane Vineyard Chardonnay 2015,"{'average': '4.6', 'reviews': '45 ratings'}",United States·Russian River Valley,https://images.vivino.com/thumbs/291cKtTVRiOI1GCoMQTb0g_pb_x300.png
+344,Le Mont Damné Chavignol 2014,"{'average': '4.6', 'reviews': '45 ratings'}",France·Sancerre,https://images.vivino.com/thumbs/bCU5hgtaScy5mwz2xkQRTA_pb_x300.png
+345,Chardonnay Ritchie Vineyard 2014,"{'average': '4.6', 'reviews': '45 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/JoUVZv1yR9GFHUjPjaWCVg_pb_x300.png
+346,Puligny-Montrachet Premier Cru La Truffière 2015,"{'average': '4.6', 'reviews': '45 ratings'}",France·Puligny-Montrachet Premier Cru,https://images.vivino.com/thumbs/X1wHrREaR5mFsu-OLK45Rg_pb_x300.png
+347,Pêra-Manca Branco 2002,"{'average': '4.6', 'reviews': '45 ratings'}",Portugal·Evora,https://images.vivino.com/thumbs/xILVphRlQV2wdzCZLzWg8g_pb_x300.png
+348,Hermitage Blanc 2014,"{'average': '4.6', 'reviews': '45 ratings'}",France·Hermitage,https://images.vivino.com/thumbs/qhSRAmvISw-I2Wbf1XeDMA_pb_x300.png
+349,Corton-Charlemagne Grand Cru 2010,"{'average': '4.6', 'reviews': '45 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/1aUROYhHSAet6_x7wS7Fdg_pb_x300.png
+350,Y 1995,"{'average': '4.6', 'reviews': '45 ratings'}",France·Bordeaux Supérieur,https://images.vivino.com/thumbs/6dP83oDrQy2Zv6es9tHp7w_pb_x300.png
+351,Fidelio 2017,"{'average': '4.6', 'reviews': '44 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/cHiiWWK8Sa2LD1BtI1i0qQ_pb_x300.png
+352,Bonnezeaux 2001,"{'average': '4.6', 'reviews': '44 ratings'}",France·Bonnezeaux,https://images.vivino.com/thumbs/8a4cVpCuTuqM6SauOE39yw_pb_x300.png
+353,The FMC Chenin Blanc 2008,"{'average': '4.6', 'reviews': '44 ratings'}",South Africa·Stellenbosch,https://images.vivino.com/thumbs/PSJ4rCFvRcaUWmX0-6USNA_pb_x300.png
+354,Chevalier-Montrachet Grand Cru Blanc 2012,"{'average': '4.6', 'reviews': '44 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/CdGn0JdOTzacM8w2FJQhKg_pb_x300.png
+355,Puligny-Montrachet 1er Cru Les Combettes 2010,"{'average': '4.6', 'reviews': '44 ratings'}",France·Puligny-Montrachet Premier Cru,https://images.vivino.com/thumbs/zSTCcglCSE2j3SDAzmqXeg_pb_x300.png
+356,Bâtard-Montrachet Grand Cru 2012,"{'average': '4.6', 'reviews': '44 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/tEeCQZd1TRGH39Pc8iOsHQ_pb_x300.png
+357,Criots-Bâtard-Montrachet Grand Cru 2009,"{'average': '4.6', 'reviews': '43 ratings'}",France·Criots-Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/kcFZL-ajQ7uwpgW_8v4tlQ_pb_x300.png
+358,Corton-Charlemagne Grand Cru 1989,"{'average': '4.6', 'reviews': '43 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/oIEEHLtPQgidLfcJEoYalg_pb_x300.png
+359,Meursault 2015,"{'average': '4.6', 'reviews': '44 ratings'}",France·Meursault,https://images.vivino.com/thumbs/unAHcULjTSuHv0UJehsTrQ_pb_x300.png
+360,Exiled 2015,"{'average': '4.6', 'reviews': '43 ratings'}",New Zealand·Waiheke Island,https://images.vivino.com/thumbs/3J4l2PBMTCOKdnG1p4eECg_pb_x300.png
+361,Meursault Premier Cru Les Perrieres 2009,"{'average': '4.6', 'reviews': '43 ratings'}",France·Meursault Premier Cru,https://images.vivino.com/thumbs/SJxXi6heTpujMyr2-cre9Q_pb_x300.png
+362,Puligny-Montrachet 1er Cru Le Cailleret 2013,"{'average': '4.6', 'reviews': '43 ratings'}",France·Puligny-Montrachet Premier Cru,https://images.vivino.com/thumbs/Q7YsINAjSXKoF-bReiq9Zg_pb_x300.png
+363,Criots-Bâtard-Montrachet Grand Cru 2009,"{'average': '4.6', 'reviews': '42 ratings'}",France·Criots-Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/P8kRvwH_SzeuLW59pwt7tg_pb_x300.png
+364,Pur Sang 2006,"{'average': '4.6', 'reviews': '42 ratings'}",France·Pouilly-Fumé,https://images.vivino.com/thumbs/7MK_oVtzSPqYjxDUr_d8NQ_pb_x300.png
+365,Chateauneuf-Du-Pape Vieilles Vignes Cuvée Des Générations Marie Leoncie 2013,"{'average': '4.6', 'reviews': '42 ratings'}",France·Châteauneuf-du-Pape,https://images.vivino.com/thumbs/VZTsDyDGSA6uLATzkLInIg_pb_x300.png
+366,Aile d'Argent Blanc Bordeaux 1998,"{'average': '4.6', 'reviews': '42 ratings'}",France·Bordeaux,https://images.vivino.com/thumbs/mUcYdy79QZyMIo3tsiKq8A_pb_x300.png
+367,Montrachet Grand Cru Marquis de Laguiche 2006,"{'average': '4.6', 'reviews': '42 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/1QoFUeYqQaCU07v4MBx8yw_pb_x300.png
+368,Bâtard-Montrachet Grand Cru 2013,"{'average': '4.6', 'reviews': '41 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/jWsHoj06QqmQWSwshA6ORA_pb_x300.png
+369,Chassagne-Montrachet 1er Cru 'Clos Saint-Marc' 2008,"{'average': '4.6', 'reviews': '41 ratings'}",France·Chassagne-Montrachet Premier Cru,https://images.vivino.com/thumbs/5FWFCIFoTy-BXHrf5DFMag_pb_x300.png
+370,Chassagne-Montrachet 1er Cru Morgeot 2013,"{'average': '4.6', 'reviews': '41 ratings'}",France·Chassagne-Montrachet Premier Cru,https://images.vivino.com/thumbs/sAuKIO1FTqC5q5yGxvzMUA_pb_x300.png
+371,Corton-Charlemagne Grand Cru 2012,"{'average': '4.6', 'reviews': '41 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/1aUROYhHSAet6_x7wS7Fdg_pb_x300.png
+372,Chardonnay UV-SL Vineyard 2014,"{'average': '4.6', 'reviews': '41 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/mPyl7d8BR8Ctf5gT0tbTtw_pb_x300.png
+373,Pessac-Léognan Blanc (Grand Cru Classé de Graves) 2006,"{'average': '4.6', 'reviews': '41 ratings'}",France·Pessac-Léognan,https://images.vivino.com/thumbs/EvtJOugzTx-HZXZfdZvTsA_pb_x300.png
+374,Chardonnay Lauren 2012,"{'average': '4.6', 'reviews': '41 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/2NAVcOqORIetzF7Znkt56Q_pb_x300.png
+375,Blanco 2017,"{'average': '4.6', 'reviews': '42 ratings'}",Spain·Ribeiro,https://images.vivino.com/thumbs/WG99xkpvQQCZYXTkocwU5w_pb_x300.png
+376,Les Clos Chablís Grand Cru 2006,"{'average': '4.6', 'reviews': '40 ratings'}",France·Chablis Grand Cru 'Les Clos',https://images.vivino.com/thumbs/bZ-yEtChS66x7tfqG47YdQ_pb_x300.png
+377,Corton-Charlemagne Grand Cru 2012,"{'average': '4.6', 'reviews': '40 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/eRoKZehFRfOTcsj_wEMHzQ_pb_x300.png
+378,Meursault-Genevrières 1er Cru 2011,"{'average': '4.6', 'reviews': '40 ratings'}",France·Meursault 1er Cru 'Genevrières',https://images.vivino.com/thumbs/1bw2y186QxK8uUUEJ7XkBg_pb_x300.png
+379,Monte Bello Chardonnay 2006,"{'average': '4.6', 'reviews': '40 ratings'}",United States·Santa Cruz Mountains,https://images.vivino.com/thumbs/cRhDpkLyQJW3CtX26zHdBw_pb_x300.png
+380,Sancerre 'Clos la Néore' 2015,"{'average': '4.6', 'reviews': '40 ratings'}",France·Sancerre,https://images.vivino.com/thumbs/NmrspI84Qjed3I78TibsqA_pb_x300.png
+381,Mon Plaisir Chardonnay 2011,"{'average': '4.6', 'reviews': '39 ratings'}",United States·Knights Valley,https://images.vivino.com/thumbs/kI7dIYpZQWK1D2GCeQ4D2g_pb_x300.png
+382,Moscato 2011,"{'average': '4.6', 'reviews': '39 ratings'}",United States·Rogue Valley,https://images.vivino.com/thumbs/rtfNj2HJR6ipRJoDn5ISrA_pb_x300.png
+383,Y 1999,"{'average': '4.6', 'reviews': '39 ratings'}",France·Bordeaux Supérieur,https://images.vivino.com/thumbs/6dP83oDrQy2Zv6es9tHp7w_pb_x300.png
+384,Bâtard-Montrachet Grand Cru 2009,"{'average': '4.6', 'reviews': '39 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/tEeCQZd1TRGH39Pc8iOsHQ_pb_x300.png
+385,Montrachet Grand Cru 2006,"{'average': '4.6', 'reviews': '38 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+386,Bacharacher Wolfshöhle Riesling Auslese 1992,"{'average': '4.6', 'reviews': '38 ratings'}",Germany·Mittelrhein,https://images.vivino.com/thumbs/pejaL6WGT6aoSKSUTxiooQ_pb_x300.png
+387,Zeltinger Schlossberg Riesling Trockenbeerenauslese 2006,"{'average': '4.6', 'reviews': '38 ratings'}",Germany·Mosel,https://images.vivino.com/thumbs/HZ-3QubYRv6ndY41Esyw-A_pb_x300.png
+388,Fym 2013,"{'average': '4.6', 'reviews': '40 ratings'}",South Africa·Franschhoek,https://images.vivino.com/thumbs/R4YsPEgZSseG0uOsb9Y8SQ_pb_x300.png
+389,Chardonnay 2016,"{'average': '4.6', 'reviews': '38 ratings'}",United States·Sta. Rita Hills,https://images.vivino.com/thumbs/hhlGZQVnR7C_RYEn8e677g_pb_x300.png
+390,Puligny-Montrachet 1er Cru Champ Canet N.V.,"{'average': '4.6', 'reviews': '38 ratings'}",France·Puligny-Montrachet Premier Cru,https://images.vivino.com/thumbs/JASBGbtdQU6RsSqQOIMZAg_pb_x300.png
+391,Les Chaillées de L'Enfer Condrieu 2006,"{'average': '4.6', 'reviews': '38 ratings'}",France·Condrieu,https://images.vivino.com/thumbs/4yM6S5juRWGGsSkl5A1JDg_pb_x300.png
+392,Condrieu Vertige 2010,"{'average': '4.6', 'reviews': '37 ratings'}",France·Condrieu,https://images.vivino.com/thumbs/UgRwB9MKQf2ywTInIGxN5Q_pb_x300.png
+393,Chardonnay Ma Princesse 2012,"{'average': '4.6', 'reviews': '37 ratings'}",United States·Russian River Valley,https://images.vivino.com/thumbs/Oxokhd-lR4iOQ64hYG4t1w_pb_x300.png
+394,Meursault Blanc 2001,"{'average': '4.6', 'reviews': '37 ratings'}",France·Meursault,https://images.vivino.com/thumbs/RqOPX5tRQOyZ9XN3hjhMCA_pb_x300.png
+395,Chardonnay Ritchie Vineyard 2008,"{'average': '4.6', 'reviews': '37 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/JoUVZv1yR9GFHUjPjaWCVg_pb_x300.png
+396,Eisrebe 2010,"{'average': '4.6', 'reviews': '37 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/vcLTCjqlRtyXuyj08_kIvw_pb_x300.png
+397,Chassagne-Montrachet 1er Cru Les Champgains 2015,"{'average': '4.6', 'reviews': '39 ratings'}",France·Chassagne-Montrachet Premier Cru,https://images.vivino.com/thumbs/5DI7Ti1ZTX6kG7NuDzAf9A_pb_x300.png
+398,Riesling Scharzhof 2006,"{'average': '4.6', 'reviews': '37 ratings'}",Germany·Wiltingen,https://images.vivino.com/thumbs/h9KO_iWpSIyfBHnQ5SGsYw_pb_x300.png
+399,Chassagne-Montrachet Premier Cru Les Macherelles 2015,"{'average': '4.6', 'reviews': '37 ratings'}",France·Chassagne-Montrachet Premier Cru,https://images.vivino.com/thumbs/IrzjmlE2S-yghC2DTo45Ag_pb_x300.png
+400,Les Preuses Chablís Grand Cru 2005,"{'average': '4.6', 'reviews': '37 ratings'}",France·Chablis Grand Cru 'Preuses',https://images.vivino.com/thumbs/ez2hWNpgSoCisXDrJ133gQ_pb_x300.png
+401,Bienvenues-Bâtard-Montrachet Grand Cru 2011,"{'average': '4.6', 'reviews': '37 ratings'}",France·Bienvenues-Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/Uiiki9vIQMGbeSmlPDDL5g_pb_x300.png
+402,Corton-Charlemagne Grand Cru 2012,"{'average': '4.6', 'reviews': '37 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/eE2zUKjzTv2H0i0dfUIMZA_pb_x300.png
+403,Blanc 2000,"{'average': '4.6', 'reviews': '37 ratings'}",France·Château-Grillet,https://images.vivino.com/thumbs/p1f0MpDjTAi4BN-Dp_LMHQ_pb_x300.png
+404,Charles Heintz Vineyard Chardonnay 2014,"{'average': '4.6', 'reviews': '36 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/GMyUMfRaQk-lman89qj_hw_pb_x300.png
+405,Molino Real 2012,"{'average': '4.6', 'reviews': '36 ratings'}",Spain·Málaga,https://images.vivino.com/thumbs/TrVUODK3TUahib9KfRwwJA_pb_x300.png
+406,Corton-Charlemagne Grand Cru N.V.,"{'average': '4.6', 'reviews': '37 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/OYuF5F7ISOul1_exa9hNMg_pb_x300.png
+407,Corton-Charlemagne Grand Cru 2014,"{'average': '4.6', 'reviews': '36 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/1aUROYhHSAet6_x7wS7Fdg_pb_x300.png
+408,Vine Hill Vineyard Chardonnay 2004,"{'average': '4.6', 'reviews': '36 ratings'}",United States·Russian River Valley,https://images.vivino.com/thumbs/KizD8I13SmqD5ICCIwy5rw_pb_x300.png
+409,Bienvenues-Bâtard-Montrachet Grand Cru 2004,"{'average': '4.6', 'reviews': '36 ratings'}",France·Bienvenues-Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/qhfegylxSw6KORIIVt8Lmg_pb_x300.png
+410,Chardonnay Eastside 2014,"{'average': '4.6', 'reviews': '36 ratings'}",United States·Russian River Valley,https://images.vivino.com/thumbs/6JonqprfR_SMBTqliXjB7Q_pb_x300.png
+411,Meursault Les Narvaux 2004,"{'average': '4.6', 'reviews': '36 ratings'}",France·Meursault,https://images.vivino.com/thumbs/EwrsnmmTSFWBou70XCC1kw_pb_x300.png
+412,Chevalier-Montrachet Grand Cru 2003,"{'average': '4.6', 'reviews': '35 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/lD32nuv9Sw6sJ7eQ8M6FtA_pb_x300.png
+413,Corton-Charlemagne Grand Cru 2014,"{'average': '4.6', 'reviews': '35 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/eRoKZehFRfOTcsj_wEMHzQ_pb_x300.png
+414,Bienvenues-Bâtard-Montrachet Grand Cru 2012,"{'average': '4.6', 'reviews': '35 ratings'}",France·Bienvenues-Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/qhfegylxSw6KORIIVt8Lmg_pb_x300.png
+415,Montrachet Grand Cru 1997,"{'average': '4.6', 'reviews': '35 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png
+416,Bâtard-Montrachet Grand Cru 2003,"{'average': '4.6', 'reviews': '35 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/EDQ4q_3FQ568NVspQBECug_pb_x300.png
+417,Bâtard-Montrachet Grand Cru 2008,"{'average': '4.6', 'reviews': '35 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/KSL62B60RRyRhV4Zaz_1Jg_pb_x300.png
+418,Hyde Vineyard Chardonnay 2016,"{'average': '4.6', 'reviews': '35 ratings'}",United States·Los Carneros,https://images.vivino.com/thumbs/IPynAa0jSyyagHE4ObamSQ_pb_x300.png
+419,Abts Erde Riesling 2008,"{'average': '4.6', 'reviews': '34 ratings'}",Germany·Rheinhessen,https://images.vivino.com/thumbs/e-wQMtuaTqORgDsptlx5ng_pb_x300.png
+420,Adelaida District Sauvignon Blanc 2013,"{'average': '4.6', 'reviews': '34 ratings'}",United States·Paso Robles,https://images.vivino.com/thumbs/kgtyGdXuSEWq2rFQpUDIfg_pb_x300.png
+421,Chevalier Montrachet Grand Cru Les Demoiselles 2010,"{'average': '4.6', 'reviews': '34 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/wGAxsLWnT0i0p86KHxqN4A_pb_x300.png
+422,Corton-Charlemagne Grand Cru 2011,"{'average': '4.6', 'reviews': '34 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/R2Yz2KOWTUWG0wJ96ECuUw_pb_x300.png
+423,Three Sisters Vineyard Chardonnay 2007,"{'average': '4.6', 'reviews': '34 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/gqxP6K-NRNmnR9Moa9tr8g_pb_x300.png
+424,Scharzhofberger Riesling Auslese 2007,"{'average': '4.6', 'reviews': '34 ratings'}",Germany·Wiltingen,https://images.vivino.com/thumbs/V_iEN64AR7GyB20KeOkA0Q_pb_x300.png
+425,Edward James Estate Chardonnay 2013,"{'average': '4.6', 'reviews': '34 ratings'}",United States·Russian River Valley,https://images.vivino.com/thumbs/Cutv8F72QW27ffzoEEBbMw_pb_x300.png
+426,Meursault-Genevrières 1er Cru 2013,"{'average': '4.6', 'reviews': '34 ratings'}",France·Meursault 1er Cru 'Genevrières',https://images.vivino.com/thumbs/t-ucrdpoSoqZP5Pfco_WbQ_pb_x300.png
+427,Meursault-Bouchères Premier Cru 2013,"{'average': '4.6', 'reviews': '33 ratings'}",France·Meursault 1er Cru 'Les Bouchères',https://images.vivino.com/thumbs/7pzu2Q4ORji_exlBu3CQNQ_pb_x300.png
+428,Scharzhofberger Riesling Auslese 2006,"{'average': '4.6', 'reviews': '33 ratings'}",Germany·Wiltingen,https://images.vivino.com/thumbs/V_iEN64AR7GyB20KeOkA0Q_pb_x300.png
+429,Castello Luigi Bianco del Ticino 2009,"{'average': '4.6', 'reviews': '33 ratings'}",Switzerland·Ticino,https://images.vivino.com/thumbs/2GVXqUdNQrWWygRGssLqGg_pb_x300.png
+430,Puligny-Montrachet Premier Cru 'La Truffière' 2009,"{'average': '4.6', 'reviews': '33 ratings'}",France·Puligny-Montrachet 1er Cru 'La Truffière',https://images.vivino.com/thumbs/-7wMSVJCRr6YrjaBtkKEHg_pb_x300.png
+431,Pessac-Léognan Blanc (Grand Cru Classé de Graves) 2004,"{'average': '4.6', 'reviews': '32 ratings'}",France·Pessac-Léognan,https://images.vivino.com/thumbs/EvtJOugzTx-HZXZfdZvTsA_pb_x300.png
+432,Y 2004,"{'average': '4.6', 'reviews': '32 ratings'}",France·Bordeaux Supérieur,https://images.vivino.com/thumbs/6dP83oDrQy2Zv6es9tHp7w_pb_x300.png
+433,Pouilly-Fuissé Réserve Particulière 'Clos Reyssié' 2005,"{'average': '4.6', 'reviews': '32 ratings'}",France·Pouilly-Fuissé,https://images.vivino.com/thumbs/3Li8IXOaTiOSKLG1TfH8Jg_pb_x300.png
+434,Pessac-Léognan Blanc (Grand Cru Classé de Graves) 2007,"{'average': '4.6', 'reviews': '32 ratings'}",France·Pessac-Léognan,https://images.vivino.com/thumbs/EvtJOugzTx-HZXZfdZvTsA_pb_x300.png
+435,Bâtard-Montrachet Grand Cru 2010,"{'average': '4.6', 'reviews': '32 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/vwvrxO2IRq2nA3G3DXG6AQ_pb_x300.png
+436,Meursault 1er Cru 'La Pièce Sous le Bois' 1994,"{'average': '4.6', 'reviews': '32 ratings'}",France·Meursault 1er Cru 'La pièce sous le Bois',https://images.vivino.com/thumbs/yHwRjKRyQPyFezToKMpl0Q_pb_x300.png
+437,Meursault 1er Cru Les Genevrières 2011,"{'average': '4.6', 'reviews': '31 ratings'}",France·Meursault Premier Cru,https://images.vivino.com/thumbs/0933bJn0Qi2h3z0G-LPxSg_pb_x300.png
+438,Vinhas da Princesa Branco 2016,"{'average': '4.6', 'reviews': '31 ratings'}",Portugal·Douro,https://images.vivino.com/thumbs/7DSdF1j0Sm62JBcIG7lpUA_pb_x300.png
+439,Chardonnay Piemonte Riserva della Famiglia 2010,"{'average': '4.6', 'reviews': '31 ratings'}",Italy·Piemonte,https://images.vivino.com/thumbs/37lN6oJfQjWbjFqOKa49JA_pb_x300.png
+440,Singerriedel - Riesling Smaragd 2003,"{'average': '4.6', 'reviews': '31 ratings'}",Austria·Wachau,https://images.vivino.com/thumbs/W7Tblf6DSU6rZjeCpIkJ8Q_pb_x300.png
+441,Shar 2017,"{'average': '4.6', 'reviews': '31 ratings'}",Italy·Isola dei Nuraghi,https://images.vivino.com/highlights/icon/top_ranked.svg
+442,Vougeot 1er Cru 'Le Clos Blanc de Vougeot' (Monopole) 2002,"{'average': '4.6', 'reviews': '31 ratings'}",France·Vougeot 1er Cru 'Le Clos Blanc',https://images.vivino.com/thumbs/SZwT1VVxRSu2MaxUFGOHNw_pb_x300.png
+443,Monzinger Halenberg Riesling Trocken 2006,"{'average': '4.6', 'reviews': '31 ratings'}",Germany·Nahe,https://images.vivino.com/thumbs/YtPTROHcQ12Yq6eL9TYleA_pb_x300.png
+444,Chardonnay 2010,"{'average': '4.6', 'reviews': '31 ratings'}",United States·Russian River Valley,https://images.vivino.com/thumbs/M8fSzJv6QMORODa6KeyP3g_pb_x300.png
+445,Chardonnay Ma Douce 2012,"{'average': '4.6', 'reviews': '31 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/BQX-66CKQmWn7g_GrirTyg_pb_x300.png
+446,Bâtard-Montrachet Grand Cru 2007,"{'average': '4.6', 'reviews': '30 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/BoK75CoMRcCPnrynHcydfQ_pb_x300.png
+447,Wehlener Sonnenuhr Riesling Auslese 1994,"{'average': '4.6', 'reviews': '30 ratings'}",Germany·Wehlen,https://images.vivino.com/thumbs/z7B_lm7URWy88F0inHlZ-w_pb_x300.png
+448,Chardonnay Ma Princesse 2009,"{'average': '4.6', 'reviews': '30 ratings'}",United States·Russian River Valley,https://images.vivino.com/thumbs/Oxokhd-lR4iOQ64hYG4t1w_pb_x300.png
+449,Chardonnay CIX 2014,"{'average': '4.6', 'reviews': '30 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/mPWBSs3FQHuG52fEionjYQ_pb_x300.png
+450,Meursault Les Rougeots 2013,"{'average': '4.6', 'reviews': '30 ratings'}",France·Meursault,https://images.vivino.com/thumbs/l5W5NRvZR_SzClIDSnG5Ag_pb_x300.png
+451,Ermitage Le Méal Blanc 2008,"{'average': '4.6', 'reviews': '30 ratings'}",France·Hermitage,https://images.vivino.com/thumbs/e8iQmynXSRq_uYHKMdPMlQ_pb_x300.png
+452,Chardonnay 2011,"{'average': '4.6', 'reviews': '30 ratings'}",South Africa·Stellenbosch,https://images.vivino.com/thumbs/AZ9GPtXgQ2-XUH9AKkusaQ_pb_x300.png
+453,Martires Rioja 2013,"{'average': '4.6', 'reviews': '30 ratings'}",Spain·Rioja,https://images.vivino.com/thumbs/zubVqyk7SdyJkRczKWPp5g_pb_x300.png
+454,Bâtard-Montrachet Grand Cru 1997,"{'average': '4.6', 'reviews': '30 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/EDQ4q_3FQ568NVspQBECug_pb_x300.png
+455,Blanco 2010,"{'average': '4.6', 'reviews': '30 ratings'}",Spain·Ribeiro,https://images.vivino.com/thumbs/WG99xkpvQQCZYXTkocwU5w_pb_x300.png
+456,Chevalier-Montrachet Grand Cru 2013,"{'average': '4.6', 'reviews': '30 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/ezPEDeIsTZ20HdZbj1BsmQ_pb_x300.png
+457,Richard Dinner Vineyard Chardonnay 2012,"{'average': '4.6', 'reviews': '29 ratings'}",United States·Sonoma Mountain,https://images.vivino.com/thumbs/NCtixwBCTbeAkFAmf4hsRQ_pb_x300.png
+458,Picolit di Cialla 2011,"{'average': '4.6', 'reviews': '29 ratings'}",Italy·Colli Orientali del Friuli,https://images.vivino.com/thumbs/Q-37ENltTQO41UGurQoQkQ_pb_x300.png
+459,Fino La Barajuela 2014,"{'average': '4.6', 'reviews': '29 ratings'}",Spain·Andalucía,https://images.vivino.com/thumbs/edmp2WgkS1KPNb2Kw8HAbQ_pb_x300.png
+460,Napa Valley Chardonnay 2008,"{'average': '4.6', 'reviews': '29 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/gAydmmSBTr-4FbYj9An_eA_pb_x300.png
+461,Astraio Viognier 2016,"{'average': '4.6', 'reviews': '29 ratings'}",Italy·Maremma Toscana,https://images.vivino.com/thumbs/7n9qDCn_RViqwF6TA1_5lg_pb_x300.png
+462,Bâtard-Montrachet Grand Cru 2014,"{'average': '4.6', 'reviews': '29 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/RIMuIFwaQVa-HkHKNztfxA_pb_x300.png
+463,Vouvray Classic 1989,"{'average': '4.6', 'reviews': '29 ratings'}",France·Vouvray,https://images.vivino.com/thumbs/cJoirtVARV6BwTOD3nXU7Q_pb_x300.png
+464,Chardonnay 2007,"{'average': '4.6', 'reviews': '29 ratings'}",United States·Sonoma Valley,https://images.vivino.com/thumbs/M3egNRrUSt6B2mr9rp0woQ_pb_x300.png
+465,Bâtard-Montrachet Grand Cru 2007,"{'average': '4.6', 'reviews': '29 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/KSL62B60RRyRhV4Zaz_1Jg_pb_x300.png
+466,Gras im Ofen Chardonnay GG Ihringer Winklerberg 2015,"{'average': '4.6', 'reviews': '29 ratings'}",Germany·Baden,https://images.vivino.com/thumbs/Xur6OC8oS_iQfZ-FFzBGUw_pb_x300.png
+467,Meursault-Genevrières 1er Cru 2010,"{'average': '4.6', 'reviews': '29 ratings'}",France·Meursault 1er Cru 'Genevrières',https://images.vivino.com/thumbs/1bw2y186QxK8uUUEJ7XkBg_pb_x300.png
+468,Meursault Les Narvaux 2002,"{'average': '4.6', 'reviews': '29 ratings'}",France·Meursault,https://images.vivino.com/thumbs/EwrsnmmTSFWBou70XCC1kw_pb_x300.png
+469,Corton Charlemagne Grand Cru 2014,"{'average': '4.5', 'reviews': '30 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/XxPhSf4_Qm-23MAnkgRBjQ_pb_x300.png
+470,Chassagne-Montrachet 1er Cru 'Les Caillerets' Blanc 2012,"{'average': '4.6', 'reviews': '28 ratings'}",France·Chassagne-Montrachet 1er Cru 'Cailleret',https://images.vivino.com/thumbs/upj_csvpTCuxQCbIr2lGPg_pb_x300.png
+471,Meursault Premier Cru Les Charmes Dessus 2010,"{'average': '4.6', 'reviews': '28 ratings'}",France·Meursault Premier Cru,https://images.vivino.com/thumbs/xeS4Hn7UT26VVO8IicZUhg_pb_x300.png
+472,Ambassadeur Fumé Gros Rhin de Chamoson 2017,"{'average': '4.6', 'reviews': '28 ratings'}",Switzerland·Chamoson,https://images.vivino.com/thumbs/bJnwPQlAS5ais1EUNIXHHQ_pb_x300.png
+473,Chevalier-Montrachet Grand Cru 2009,"{'average': '4.6', 'reviews': '28 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/yVJhEJawSHm7K1HJC74mJw_pb_x300.png
+474,Corton-Charlemagne Grand Cru 2009,"{'average': '4.6', 'reviews': '28 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/eRoKZehFRfOTcsj_wEMHzQ_pb_x300.png
+475,Chevalier-Montrachet Grand Cru 'La Cabotte' Blanc 2009,"{'average': '4.6', 'reviews': '28 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/uuSodLZsTiicTbzWRWKm-Q_pb_x300.png
+476,Vignoble Gli Zii Chardonnay N.V.,"{'average': '4.6', 'reviews': '28 ratings'}",United States·Russian River Valley,https://images.vivino.com/thumbs/8H1Lhc_BQW6Ym5A-ChFITA_pb_x300.png
+477,Bâtard-Montrachet Grand Cru Blanc 2011,"{'average': '4.6', 'reviews': '28 ratings'}",France·Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/PZmfhtORSFmYkuXJ2bzhCA_pb_x300.png
+478,Corton-Charlemagne Grand Cru 2015,"{'average': '4.6', 'reviews': '28 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/lHlK2iBESI-wRSmbGorzoA_pb_x300.png
+479,Primo Amore Moscato delle Venezie 2008,"{'average': '4.6', 'reviews': '28 ratings'}",Italy·delle Venezie,https://images.vivino.com/thumbs/cuyOkIO9SUmiGFl6TRgn0w_pb_x300.png
+480,Puligny-Montrachet Premier Cru Clos du Cailleret 2013,"{'average': '4.6', 'reviews': '28 ratings'}",France·Puligny-Montrachet Premier Cru,https://images.vivino.com/thumbs/9xJXN2NES4KHjcfnAy3Lug_pb_x300.png
+481,Achleiten Riesling 2007,"{'average': '4.6', 'reviews': '28 ratings'}",Austria·Wachau,https://images.vivino.com/thumbs/LjnragvGQh-DIIGggDUhkQ_pb_x300.png
+482,Montrachet Grand Cru 2004,"{'average': '4.6', 'reviews': '28 ratings'}",France·Montrachet Grand Cru,https://images.vivino.com/thumbs/7NGox10_SBWN1jRRD_dCdw_pb_x300.png
+483,Corton-Charlemagne Grand Cru 2011,"{'average': '4.6', 'reviews': '28 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/P8BKQ1abSK-qVrPyPBNjSw_pb_x300.png
+484,Corton-Charlemagne Grand Cru 1994,"{'average': '4.6', 'reviews': '28 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/8UJCVdBiRTKm9LMYcZHAsQ_pb_x300.png
+485,Asatsuyu Sauvignon Blanc 2011,"{'average': '4.6', 'reviews': '28 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/q1TKjQr5R4uPKk3ffLEMpQ_pb_x300.png
+486,Pur Sang 2002,"{'average': '4.6', 'reviews': '28 ratings'}",France·Pouilly-Fumé,https://images.vivino.com/thumbs/7MK_oVtzSPqYjxDUr_d8NQ_pb_x300.png
+487,Blanc 2014,"{'average': '4.6', 'reviews': '29 ratings'}",France·Château-Grillet,https://images.vivino.com/thumbs/p1f0MpDjTAi4BN-Dp_LMHQ_pb_x300.png
+488,Vieilles Vignes Roussanne 2017,"{'average': '4.6', 'reviews': '28 ratings'}",France·Côtes-du-Rhône,https://images.vivino.com/thumbs/4ZPNCd5fRZ-YfPh4L7MIlQ_pb_x300.png
+489,Clos Boucher Condrieu 2013,"{'average': '4.6', 'reviews': '28 ratings'}",France·Condrieu,https://images.vivino.com/thumbs/mskzOt8bSOmVcuPibZXWiw_pb_x300.png
+490,Tradition Pinot Gris 1998,"{'average': '4.6', 'reviews': '27 ratings'}",France·Alsace,https://images.vivino.com/thumbs/D4mr1Ll5Tc6dyVaSZORjCw_pb_x300.png
+491,Vineyard Selection Chardonnay 2014,"{'average': '4.6', 'reviews': '27 ratings'}",South Africa·Elgin,https://images.vivino.com/thumbs/xdoEV1phQJOW6T_G9-YVpQ_pb_x300.png
+492,Chardonnay 2010,"{'average': '4.6', 'reviews': '27 ratings'}",United States·Los Carneros,https://images.vivino.com/thumbs/hK6rHIW7T0CflWb1at-ldA_pb_x300.png
+493,Corton-Charlemagne Grand Cru 2001,"{'average': '4.6', 'reviews': '27 ratings'}",France·Corton-Charlemagne Grand Cru,https://images.vivino.com/thumbs/QIs0hHhdRHubnyUjY8U2kA_pb_x300.png
+494,Estate Finch Hollow Chardonnay (Cave Fermented) 2016,"{'average': '4.6', 'reviews': '27 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/pQ_92smWRKG7Y7h5_ZwD-w_pb_x300.png
+495,Quartz 2016,"{'average': '4.6', 'reviews': '27 ratings'}",France·Vins des Allobroges,https://images.vivino.com/thumbs/VcsEafEsT5yZSO8guiP93g_pb_x300.png
+496,Bienvenues-Bâtard-Montrachet Grand Cru 1999,"{'average': '4.6', 'reviews': '27 ratings'}",France·Bienvenues-Bâtard-Montrachet Grand Cru,https://images.vivino.com/thumbs/qhfegylxSw6KORIIVt8Lmg_pb_x300.png
+497,Chablis Grand Cru 'Vaudesir' 2014,"{'average': '4.6', 'reviews': '27 ratings'}",France·Chablis Grand Cru 'Vaudesir',https://images.vivino.com/thumbs/MMIcXtgcRJKhp2C6aMhD-w_pb_x300.png
+498,Cave Collection Chardonnay 2008,"{'average': '4.6', 'reviews': '27 ratings'}",United States·Napa Valley,https://images.vivino.com/thumbs/fMFM-DDQTbWMrnmWcb0udg_pb_x300.png
+499,Stone Flat Vineyard Chardonnay 2010,"{'average': '4.6', 'reviews': '27 ratings'}",United States·Sonoma Coast,https://images.vivino.com/thumbs/ke1_wyNvTVW3JOUIb2al2A_pb_x300.png
+500,Chevalier-Montrachet Grand Cru 2015,"{'average': '4.6', 'reviews': '27 ratings'}",France·Chevalier-Montrachet Grand Cru,https://images.vivino.com/thumbs/lD32nuv9Sw6sJ7eQ8M6FtA_pb_x300.png
+501,Puligny-Montrachet 1er Cru Champ Canet 2011,"{'average': '4.6', 'reviews': '27 ratings'}",France·Puligny-Montrachet Premier Cru,https://images.vivino.com/thumbs/cDjOBVU0QW-urCYucn2ibw_pb_x300.png
+502,Auxey-Duresses 2004,"{'average': '4.6', 'reviews': '27 ratings'}",France·Auxey-Duresses,https://images.vivino.com/thumbs/OzI_mGYSQdCoymgoYX1KfA_pb_x300.png
+503,Yattarna Chardonnay (BIN 144) 2003,"{'average': '4.6', 'reviews': '27 ratings'}",Australia·Adelaide Hills,https://images.vivino.com/thumbs/aMdgLSKeQVybJ-VdZSg6rQ_pb_x300.png
+504,Chassagne-Montrachet Premier Cru Abbaye de Morgeot 2014,"{'average': '4.6', 'reviews': '27 ratings'}",France·Chassagne-Montrachet 1er Cru 'Abbaye de Morgeot',https://images.vivino.com/thumbs/lj7yTJRLQoWN2vtdyaxcGQ_pb_x300.png

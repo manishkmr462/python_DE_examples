@@ -1,0 +1,142 @@
+# Python Data Types Quiz
+
+1. **Which of the following is NOT a built-in numeric type in Python?**  
+    a. `int`  
+    b. `float`  
+    c. `complex`  
+    d. `char`  
+    Answer: d
+
+2. **What does the `append()` method do to a list?**  
+    a. Adds an element to the end of the list  
+    b. Adds an element to the beginning of the list  
+    c. Removes an element from the list  
+    d. Sorts the list  
+    Answer: a
+
+3. **Which of these list methods modifies the original list in-place?**  
+    a. `copy()`  
+    b. `index()`  
+    c. `sort()`  
+    d. `count()`  
+    Answer: c
+
+4. **Tuples are...**  
+    a. Mutable  
+    b. Immutable  
+    c. Ordered  
+    d. Both Immutable and Ordered  
+    Answer: d
+
+
+5. **Which of the following is NOT a valid tuple method?**  
+    a. `count()`  
+    b. `index()`  
+    c. `append()`  
+    d. `__len__()`  
+    Answer: c
+
+6. **What does the `strip()` method do to a string?**  
+    a. Removes leading and trailing whitespace  
+    b. Converts the string to uppercase  
+    c. Converts the string to lowercase  
+    d. Replaces a substring  
+    Answer: a
+
+7. **Which string method is used to find the index of a substring?**  
+    a. `find()`  
+    b. `index()`  
+    c. `count()`  
+    d. `replace()`  
+    Answer: a and b
+
+8. **What does the `get()` method do in a dictionary?**  
+    a. Returns the value associated with a key, or a default value if the key is not found  
+    b. Adds a new key-value pair  
+    c. Removes a key-value pair  
+    d. Returns all keys in the dictionary  
+    Answer: a
+
+9. **Which dictionary method returns a view object that displays a list of a dictionary's keys?**  
+    a. `keys()`  
+    b. `values()`  
+    c. `items()`  
+    d. `get()`  
+    Answer: a
+
+10. **Dictionaries in Python are...**  
+    a. Ordered (from Python 3.7+)  
+    b. Unordered  
+    c. Indexed by integers  
+    d. Immutable  
+    Answer: a
+
+11. **Sets in Python are...**  
+    a. Ordered  
+    b. Unordered  
+    c. Mutable  
+    d. Both Unordered and Mutable  
+    Answer: d
+
+12. **Which set method adds an element to the set?**  
+    a. `add()`  
+    b. `update()`  
+    c. `union()`  
+    d. `intersection()`  
+    Answer: a
+
+13. **What does the `difference()` method do to sets?**  
+    a. Returns the elements that are in the first set but not the second  
+    b. Returns the common elements between two sets  
+    c. Returns all elements from both sets  
+    d. Removes an element from a set  
+    Answer: a
+
+14. **Which method removes an arbitrary element from a set?**  
+    a. `remove()`  
+    b. `discard()`  
+    c. `pop()`  
+    d. `clear()`  
+    Answer: c
+
+15. **Which method returns a shallow copy of a list?**  
+    a. `copy()`  
+    b. `deepcopy()`  
+    c. `list()`  
+    d. `[:]`  
+    Answer: a and d
+
+16. **What is the primary difference between `remove()` and `discard()` for sets?**  
+    a. `remove()` raises an error if the element is not found, `discard()` does not  
+    b. `discard()` raises an error if the element is not found, `remove()` does not  
+    c. They do the same thing  
+    d. They are used for lists, not sets  
+    Answer: a
+
+17. **Which string method checks if a string starts with a specified prefix?**  
+    a. `startswith()`  
+    b. `endswith()`  
+    c. `find()`  
+    d. `index()`  
+    Answer: a
+
+18. **What does the `update()` method do for dictionaries?**  
+    a. Adds multiple key-value pairs from another dictionary or iterable  
+    b. Adds a single key-value pair  
+    c. Removes a key-value pair  
+    d. Merges two dictionaries into a new one  
+    Answer: d
+
+19. **Which of these is the correct way to create an empty set?**  
+    a. `{}`  
+    b. `set()`  
+    c. `[]`  
+    d. `()`  
+    Answer: b
+
+20. **What is the result of `type([1, 2, 3])`?**  
+    a. `list`  
+    b. `tuple`  
+    c. `set`  
+    d. `array`  
+    Answer: a
